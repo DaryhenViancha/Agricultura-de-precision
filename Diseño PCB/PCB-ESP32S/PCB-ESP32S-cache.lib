@@ -127,6 +127,22 @@ X ~ 2 300 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# pines_yl100&mq135_pines_sensor
+#
+DEF pines_yl100&mq135_pines_sensor U 0 40 Y Y 1 F N
+F0 "U" 0 50 50 H V C CNN
+F1 "pines_yl100&mq135_pines_sensor" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -300 -200 350 200 0 1 0 N
+X Aout ~ -50 -300 100 U 50 50 1 1 I
+X Dout ~ 100 -300 100 U 50 50 1 1 I
+X GND ~ 250 -300 100 U 50 50 1 1 I
+X VCC ~ -200 -300 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # power_+3.3V
 #
 DEF power_+3.3V #PWR 0 0 Y Y 1 F P

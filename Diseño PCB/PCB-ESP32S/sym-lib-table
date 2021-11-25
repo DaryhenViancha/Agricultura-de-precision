@@ -3,4 +3,5 @@
   (lib (name PCB-ESP32S-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB-ESP32S-rescue.lib)(options "")(descr ""))
   (lib (name BH1750FVI-TR)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/BH1750FVI-TR.lib)(options "")(descr ""))
   (lib (name sensors)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/sensors.lib)(options "")(descr ""))
+  (lib (name pines_yl100&mq135)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/pines_yl100&mq135.pretty/pines_alimentacion_sensor.lib)(options "")(descr ""))
 )
