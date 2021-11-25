@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name ESP32S)(type Legacy)(uri E:/UNIVERSIDAD/embebidos/Control-de-biosistemas/Librerias_new/esp32s/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+  (lib (name PCB-ESP32S-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB-ESP32S-rescue.lib)(options "")(descr ""))
+  (lib (name BH1750FVI-TR)(type Legacy)(uri "C:/Users/mcsl1/OneDrive - Universidad Nacional de Colombia/Documentos/Universidad/Semestre 11/Embebidos/Control de biosistemas/Control-de-biosistemas/Librerias_new/BH1750FVI-TR.lib")(options "")(descr ""))
+  (lib (name sensors)(type Legacy)(uri "C:/Users/mcsl1/OneDrive - Universidad Nacional de Colombia/Documentos/Universidad/Semestre 11/Embebidos/Control de biosistemas/Control-de-biosistemas/Librerias_new/sensors.lib")(options "")(descr ""))
 )
