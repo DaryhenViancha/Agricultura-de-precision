@@ -30,4 +30,8 @@ NetIExt=net
 [eeschema]
 version=1
 LibDir=
+<<<<<<< HEAD
 [eeschema/libraries]
+=======
+[eeschema/libraries]
+>>>>>>> 31957d92f6d12b769fcbf8c2a4153c0aaabd7132
