@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -231,4 +231,14 @@ Text GLabel 6050 4350 2    50   Input ~ 0
 IO4
 Wire Wire Line
 	6050 4350 6000 4350
+$Sheet
+S 7700 4600 1050 800 
+U 619FC5E1
+F0 "Sheet619FC5E0" 50
+F1 "pines_sensor.sch" 50
+F2 "VCC" I L 7700 4800 50 
+F3 "Aout" I L 7700 5000 50 
+F4 "Dout" I L 7700 5150 50 
+F5 "GND" I L 7700 5300 50 
+$EndSheet
 $EndSCHEMATC

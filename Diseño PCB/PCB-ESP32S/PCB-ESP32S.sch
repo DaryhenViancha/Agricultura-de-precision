@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 1 4
 Title ""
 Date ""
 Rev ""
@@ -240,5 +240,11 @@ F2 "VCC" I L 7700 4800 50
 F3 "Aout" I L 7700 5000 50 
 F4 "Dout" I L 7700 5150 50 
 F5 "GND" I L 7700 5300 50 
+$EndSheet
+$Sheet
+S 9500 3400 750  600 
+U 61A61E97
+F0 "ModulosReles" 50
+F1 "ModuloReles.sch" 50
 $EndSheet
 $EndSCHEMATC
