@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -292,4 +292,24 @@ Wire Wire Line
 	7750 2500 7500 2500
 Wire Wire Line
 	7500 2500 7500 2550
+$Sheet
+S 4500 5450 850  850 
+U 61A8D74F
+F0 "Sheet61A8D74E" 50
+F1 "12volts.sch" 50
+F2 "GND" I R 5350 6050 50 
+F3 "12V" I R 5350 5700 50 
+F4 "AC1" I L 4500 5700 50 
+F5 "AC2" I L 4500 6050 50 
+$EndSheet
+$Sheet
+S 2000 5000 1500 1400
+U 61A8C81F
+F0 "Sheet61A8C81E" 50
+F1 "alimentacion.sch" 50
+F2 "5V" I R 3500 5650 50 
+F3 "12V" I L 2000 5350 50 
+F4 "3.3V" I R 3500 5850 50 
+F5 "GND" I L 2000 6000 50 
+$EndSheet
 $EndSCHEMATC
