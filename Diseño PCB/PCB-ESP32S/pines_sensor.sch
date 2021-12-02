@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 4
+Sheet 3 5
 Title ""
 Date ""
 Rev ""
@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L pines_yl100&mq135:pines_sensor U?
+L pines_yl100&mq135:pines_sensor U2
 U 1 1 619FDFBF
 P 3050 2350
-F 0 "U?" H 3428 2338 50  0000 L CNN
+F 0 "U2" H 3428 2338 50  0000 L CNN
 F 1 "pines_sensor" H 3428 2247 50  0000 L CNN
 F 2 "" H 3050 2350 50  0001 C CNN
 F 3 "" H 3050 2350 50  0001 C CNN
