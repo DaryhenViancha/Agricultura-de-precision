@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name ESP32S)(type KiCad)(uri E:/UNIVERSIDAD/embebidos/Control-de-biosistemas/Librerias_new/esp32s/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty)(options "")(descr ""))
-  (lib (name Sensors)(type KiCad)(uri "C:/Users/mcsl1/OneDrive - Universidad Nacional de Colombia/Documentos/Universidad/Semestre 11/Embebidos/Control de biosistemas/Control-de-biosistemas/Librerias_new/Sensors.pretty")(options "")(descr ""))
+  (lib (name ESP32S)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/esp32s/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty)(options "")(descr ""))
+  (lib (name Sensors)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/Sensors.pretty)(options "")(descr ""))
+  (lib (name ModuloRele)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/ModuloRele.pretty)(options "")(descr ""))
 )
