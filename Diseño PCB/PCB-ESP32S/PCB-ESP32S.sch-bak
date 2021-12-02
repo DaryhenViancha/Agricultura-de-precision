@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 8
 Title ""
 Date ""
 Rev ""
@@ -232,16 +232,6 @@ IO4
 Wire Wire Line
 	6050 4350 6000 4350
 $Sheet
-S 7700 4600 1050 800 
-U 619FC5E1
-F0 "Sheet619FC5E0" 50
-F1 "pines_sensor.sch" 50
-F2 "VCC" I L 7700 4800 50 
-F3 "Aout" I L 7700 5000 50 
-F4 "Dout" I L 7700 5150 50 
-F5 "GND" I L 7700 5300 50 
-$EndSheet
-$Sheet
 S 9500 3400 750  600 
 U 61A61E97
 F0 "ModulosReles" 50
@@ -312,5 +302,25 @@ F2 "5V" I R 3500 5650 50
 F3 "12V" I L 2000 5350 50 
 F4 "3.3V" I R 3500 5850 50 
 F5 "GND" I L 2000 6000 50 
+$EndSheet
+$Sheet
+S 7700 4600 1050 800 
+U 619FC5E1
+F0 "Sheet619FC5E0" 50
+F1 "pines_sensor.sch" 50
+F2 "VCC" I L 7700 4800 50 
+F3 "GND" I L 7700 5300 50 
+F4 "Aout" I R 8750 4800 50 
+F5 "Dout" I R 8750 5300 50 
+$EndSheet
+$Sheet
+S 9200 4600 1050 800 
+U 61A90AD5
+F0 "sheet61A90ACF" 50
+F1 "pines_sensor.sch" 50
+F2 "VCC" I L 9200 4800 50 
+F3 "GND" I L 9200 5300 50 
+F4 "Aout" I R 10250 4800 50 
+F5 "Dout" I R 10250 5300 50 
 $EndSheet
 $EndSCHEMATC
