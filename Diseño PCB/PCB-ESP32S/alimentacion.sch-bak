@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 8
+Sheet 6 7
 Title ""
 Date ""
 Rev ""
@@ -19,7 +19,7 @@ U 1 1 61A64F42
 P 3600 3250
 F 0 "C5" H 3778 3296 50  0000 L CNN
 F 1 "100u" H 3778 3205 50  0000 L CNN
-F 2 "" H 3600 3250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_Elec_4x5.8" H 3600 3250 50  0001 C CNN
 F 3 "~" H 3600 3250 50  0001 C CNN
 	1    3600 3250
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 61A6675D
 P 4700 3250
 F 0 "C7" H 4878 3296 50  0000 L CNN
 F 1 "100u" H 4878 3205 50  0000 L CNN
-F 2 "" H 4700 3250 50  0001 C CNN
+F 2 "Capacitor_SMD:C_Elec_4x5.8" H 4700 3250 50  0001 C CNN
 F 3 "~" H 4700 3250 50  0001 C CNN
 	1    4700 3250
 	1    0    0    -1  
@@ -68,7 +68,7 @@ U 1 1 61A6F4A6
 P 5250 3600
 F 0 "D7" H 5243 3817 50  0000 C CNN
 F 1 "LED" H 5243 3726 50  0000 C CNN
-F 2 "" H 5250 3600 50  0001 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5250 3600 50  0001 C CNN
 F 3 "~" H 5250 3600 50  0001 C CNN
 	1    5250 3600
 	0    -1   -1   0   
@@ -107,7 +107,7 @@ U 1 1 61A8758A
 P 3600 4800
 F 0 "C6" H 3778 4846 50  0000 L CNN
 F 1 "10u" H 3778 4755 50  0000 L CNN
-F 2 "" H 3600 4800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 3600 4800 50  0001 C CNN
 F 3 "~" H 3600 4800 50  0001 C CNN
 	1    3600 4800
 	1    0    0    -1  
@@ -118,7 +118,7 @@ U 1 1 61A87590
 P 4700 4800
 F 0 "C8" H 4878 4846 50  0000 L CNN
 F 1 "10u" H 4878 4755 50  0000 L CNN
-F 2 "" H 4700 4800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 4700 4800 50  0001 C CNN
 F 3 "~" H 4700 4800 50  0001 C CNN
 	1    4700 4800
 	1    0    0    -1  
@@ -241,15 +241,13 @@ Wire Wire Line
 	5250 5400 5800 5400
 Connection ~ 5250 5400
 Wire Wire Line
-	3000 3850 3000 5400
+	3000 3850 3000 4350
 Wire Wire Line
 	3000 3850 3600 3850
 Wire Wire Line
 	3000 5400 3600 5400
 Text HLabel 5750 2950 3    50   Input ~ 0
 5V
-Text HLabel 2900 2900 3    50   Input ~ 0
-12V
 Text HLabel 5750 4450 3    50   Input ~ 0
 3.3V
 Text HLabel 5800 5400 3    50   Input ~ 0
@@ -257,4 +255,26 @@ GND
 Connection ~ 5250 2950
 Wire Wire Line
 	5250 2950 5250 3100
+$Comp
+L Connector:Screw_Terminal_01x02 J?
+U 1 1 61BB9845
+P 2350 4250
+F 0 "J?" H 2268 4467 50  0000 C CNN
+F 1 "Screw_Terminal_01x02" H 2268 4376 50  0000 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 2350 4250 50  0001 C CNN
+F 3 "~" H 2350 4250 50  0001 C CNN
+	1    2350 4250
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 4250 2900 4250
+Wire Wire Line
+	2900 4250 2900 2900
+Wire Wire Line
+	2550 4350 3000 4350
+Connection ~ 3000 4350
+Wire Wire Line
+	3000 4350 3000 5400
+Text HLabel 2900 2900 0    50   Input ~ 0
+12v
 $EndSCHEMATC
