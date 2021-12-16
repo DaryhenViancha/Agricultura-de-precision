@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L PCB-ESP32S-rescue:DHT22_Temperature_Humidity-sensors-PCB-ESP32S-rescue TH?
+L PCB-ESP32S-rescue:DHT22_Temperature_Humidity-sensors-PCB-ESP32S-rescue-PCB-ESP32S-rescue TH?
 U 1 1 61A00323
 P 2500 2350
 AR Path="/61A00323" Ref="TH?"  Part="1" 

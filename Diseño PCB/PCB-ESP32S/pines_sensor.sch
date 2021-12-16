@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L PCB-ESP32S-rescue:pines_sensor-pines_yl100&mq135 U2
+L PCB-ESP32S-rescue:pines_sensor-pines_yl100&mq135-PCB-ESP32S-rescue U2
 U 1 1 619FDFBF
 P 3050 2350
 AR Path="/619FC5E1/619FDFBF" Ref="U2"  Part="1" 
