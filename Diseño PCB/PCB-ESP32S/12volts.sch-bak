@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 7 8
+Sheet 5 8
 Title ""
 Date ""
 Rev ""
@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Diode_Bridge:VS-KBPC104 D?
+L Diode_Bridge:VS-KBPC104 D5
 U 1 1 61AADABA
 P 4800 2450
-F 0 "D?" H 5144 2496 50  0000 L CNN
+F 0 "D5" H 5144 2496 50  0000 L CNN
 F 1 "VS-KBPC104" H 5144 2405 50  0000 L CNN
 F 2 "Diode_THT:Diode_Bridge_Vishay_KBPC1" H 4950 2575 50  0001 L CNN
 F 3 "http://www.vishay.com/docs/93585/vs-kbpc1series.pdf" H 4800 2450 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "http://www.vishay.com/docs/93585/vs-kbpc1series.pdf" H 4800 2450 50  0001 C
 	1    0    0    -1  
 $EndComp
 $Comp
-L pspice:CAP C?
+L pspice:CAP C2
 U 1 1 61AAEC19
 P 5800 2450
-F 0 "C?" H 5978 2496 50  0000 L CNN
+F 0 "C2" H 5978 2496 50  0000 L CNN
 F 1 "2200u" H 5978 2405 50  0000 L CNN
 F 2 "" H 5800 2450 50  0001 C CNN
 F 3 "~" H 5800 2450 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "~" H 5800 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L pspice:CAP C?
+L pspice:CAP C3
 U 1 1 61AAF835
 P 6350 2450
-F 0 "C?" H 6528 2496 50  0000 L CNN
+F 0 "C3" H 6528 2496 50  0000 L CNN
 F 1 "100u" H 6528 2405 50  0000 L CNN
 F 2 "" H 6350 2450 50  0001 C CNN
 F 3 "~" H 6350 2450 50  0001 C CNN
@@ -47,10 +47,10 @@ F 3 "~" H 6350 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L pspice:CAP C?
+L pspice:CAP C4
 U 1 1 61AB036A
 P 6900 2450
-F 0 "C?" H 7078 2496 50  0000 L CNN
+F 0 "C4" H 7078 2496 50  0000 L CNN
 F 1 "0.22u" H 7078 2405 50  0000 L CNN
 F 2 "" H 6900 2450 50  0001 C CNN
 F 3 "~" H 6900 2450 50  0001 C CNN
@@ -92,10 +92,10 @@ Wire Wire Line
 Wire Wire Line
 	4800 2750 3850 2750
 $Comp
-L Diode:1N53xxB D?
+L Diode:1N53xxB D6
 U 1 1 61AB33CA
 P 7500 2450
-F 0 "D?" V 7454 2530 50  0000 L CNN
+F 0 "D6" V 7454 2530 50  0000 L CNN
 F 1 "1N5349B" V 7545 2530 50  0000 L CNN
 F 2 "Diode_THT:D_DO-201_P15.24mm_Horizontal" H 7500 2275 50  0001 C CNN
 F 3 "https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf" H 7500 2450 50  0001 C CNN
@@ -116,10 +116,10 @@ Wire Wire Line
 	7500 2100 8100 2100
 Connection ~ 7500 2100
 $Comp
-L Device:R R?
+L Device:R R12
 U 1 1 61AB6798
 P 7200 2100
-F 0 "R?" V 7407 2100 50  0000 C CNN
+F 0 "R12" V 7407 2100 50  0000 C CNN
 F 1 "220" V 7316 2100 50  0000 C CNN
 F 2 "" V 7130 2100 50  0001 C CNN
 F 3 "~" H 7200 2100 50  0001 C CNN
