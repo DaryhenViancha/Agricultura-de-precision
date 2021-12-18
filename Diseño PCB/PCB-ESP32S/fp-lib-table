@@ -3,4 +3,5 @@
   (lib (name Sensors)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/Sensors.pretty)(options "")(descr ""))
   (lib (name ModuloRele)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/ModuloRele.pretty)(options "")(descr ""))
   (lib (name BH1750)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/BH1750.pretty)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/lib)(options "")(descr ""))
 )

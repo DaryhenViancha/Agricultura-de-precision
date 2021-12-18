@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 8
 Title ""
 Date ""
 Rev ""
@@ -417,4 +417,10 @@ F 3 "" H 8300 2450 50  0001 C CNN
 	1    8300 2450
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 6100 1400 850  750 
+U 61BD2E90
+F0 "baterias" 50
+F1 "baterias.sch" 50
+$EndSheet
 $EndSCHEMATC

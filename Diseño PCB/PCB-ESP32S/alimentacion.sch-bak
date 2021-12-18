@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 7
+Sheet 5 8
 Title ""
 Date ""
 Rev ""
@@ -19,7 +19,7 @@ U 1 1 61A64F42
 P 3600 3250
 F 0 "C5" H 3778 3296 50  0000 L CNN
 F 1 "100u" H 3778 3205 50  0000 L CNN
-F 2 "Capacitor_SMD:C_Elec_4x5.8" H 3600 3250 50  0001 C CNN
+F 2 "Capacitor_SMD:CP_Elec_6.3x5.8" H 3600 3250 50  0001 C CNN
 F 3 "~" H 3600 3250 50  0001 C CNN
 	1    3600 3250
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 61A6675D
 P 4700 3250
 F 0 "C7" H 4878 3296 50  0000 L CNN
 F 1 "100u" H 4878 3205 50  0000 L CNN
-F 2 "Capacitor_SMD:C_Elec_4x5.8" H 4700 3250 50  0001 C CNN
+F 2 "Capacitor_SMD:CP_Elec_6.3x5.8" H 4700 3250 50  0001 C CNN
 F 3 "~" H 4700 3250 50  0001 C CNN
 	1    4700 3250
 	1    0    0    -1  
