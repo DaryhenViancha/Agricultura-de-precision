@@ -256,10 +256,10 @@ Connection ~ 5250 2950
 Wire Wire Line
 	5250 2950 5250 3100
 $Comp
-L Connector:Screw_Terminal_01x02 J?
+L Connector:Screw_Terminal_01x02 J8
 U 1 1 61BB9845
 P 2350 4250
-F 0 "J?" H 2268 4467 50  0000 C CNN
+F 0 "J8" H 2268 4467 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 2268 4376 50  0000 C CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 2350 4250 50  0001 C CNN
 F 3 "~" H 2350 4250 50  0001 C CNN

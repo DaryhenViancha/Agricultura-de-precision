@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L charger_stepup-rescue:TP4056 U1b
+L charger_stepup-rescue:TP4056 U1b1
 U 1 1 61BEC739
 P 3550 2000
-F 0 "U1b" H 3550 2537 60  0000 C CNN
+F 0 "U1b1" H 3550 2537 60  0000 C CNN
 F 1 "TP4056" H 3550 2431 60  0000 C CNN
 F 2 "lib:TP4056_SOP-8-PP" H 3550 2431 60  0001 C CNN
 F 3 "" H 3550 2000 60  0000 C CNN
@@ -25,10 +25,10 @@ F 3 "" H 3550 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-rescue:C C1b
+L charger_stepup-rescue:C C1b1
 U 1 1 61BEE1DE
 P 1550 2750
-F 0 "C1b" H 1665 2796 50  0000 L CNN
+F 0 "C1b1" H 1665 2796 50  0000 L CNN
 F 1 "0.1uF" H 1665 2705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 1588 2600 50  0001 C CNN
 F 3 "" H 1550 2750 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "" H 1550 2750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-rescue:CONN_01X01 J2
+L charger_stepup-rescue:CONN_01X01 J10
 U 1 1 61BEE822
 P 1300 1750
-F 0 "J2" H 1217 1965 50  0000 C CNN
+F 0 "J10" H 1217 1965 50  0000 C CNN
 F 1 "CONN_in+" H 1217 1874 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal" H 1300 1750 50  0001 C CNN
 F 3 "" H 1300 1750 50  0001 C CNN
@@ -47,10 +47,10 @@ F 3 "" H 1300 1750 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-rescue:DW01 U2b
+L charger_stepup-rescue:DW01 U2b1
 U 1 1 61BEECBC
 P 6800 2150
-F 0 "U2b" H 6825 2587 60  0000 C CNN
+F 0 "U2b1" H 6825 2587 60  0000 C CNN
 F 1 "DW01" H 6825 2481 60  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 6750 1850 60  0001 C CNN
 F 3 "" H 6750 1850 60  0001 C CNN
@@ -58,32 +58,32 @@ F 3 "" H 6750 1850 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-rescue:LED D1b
+L charger_stepup-rescue:LED D1b1
 U 1 1 61BEF444
 P 1850 1950
-F 0 "D1b" H 1843 2166 50  0000 C CNN
+F 0 "D1b1" H 1843 2166 50  0000 C CNN
 F 1 "LED" H 1843 2075 50  0000 C CNN
-F 2 "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1850 1950 50  0001 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1850 1950 50  0001 C CNN
 F 3 "" H 1850 1950 50  0001 C CNN
 	1    1850 1950
 	-1   0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-rescue:R R1b
+L charger_stepup-rescue:R R1b1
 U 1 1 61BEFC3B
 P 2400 1950
-F 0 "R1b" V 2193 1950 50  0000 C CNN
+F 0 "R1b1" V 2193 1950 50  0000 C CNN
 F 1 "1k" V 2284 1950 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2330 1950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2330 1950 50  0001 C CNN
 F 3 "" H 2400 1950 50  0001 C CNN
 	1    2400 1950
 	0    -1   1    0   
 $EndComp
 $Comp
-L charger_stepup-rescue:CONN_01X01 J1
+L charger_stepup-rescue:CONN_01X01 J11
 U 1 1 61BF10AC
 P 1250 3350
-F 0 "J1" H 1167 3565 50  0000 C CNN
+F 0 "J11" H 1167 3565 50  0000 C CNN
 F 1 "CONN_in-" H 1167 3474 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal" H 1250 3350 50  0001 C CNN
 F 3 "" H 1250 3350 50  0001 C CNN
@@ -91,12 +91,12 @@ F 3 "" H 1250 3350 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L charger_stepup-rescue:LED D2b
+L charger_stepup-rescue:LED D2b1
 U 1 1 61BF25A9
 P 1850 2300
-F 0 "D2b" H 1843 2516 50  0000 C CNN
+F 0 "D2b1" H 1843 2516 50  0000 C CNN
 F 1 "LED" H 1843 2425 50  0000 C CNN
-F 2 "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1850 2300 50  0001 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1850 2300 50  0001 C CNN
 F 3 "" H 1850 2300 50  0001 C CNN
 	1    1850 2300
 	-1   0    0    -1  
@@ -116,12 +116,12 @@ Connection ~ 1550 2300
 Wire Wire Line
 	1550 2300 1550 2600
 $Comp
-L charger_stepup-rescue:R R2b
+L charger_stepup-rescue:R R2b1
 U 1 1 61BF46D6
 P 2400 2300
-F 0 "R2b" V 2193 2300 50  0000 C CNN
+F 0 "R2b1" V 2193 2300 50  0000 C CNN
 F 1 "1k" V 2284 2300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 2330 2300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2330 2300 50  0001 C CNN
 F 3 "" H 2400 2300 50  0001 C CNN
 	1    2400 2300
 	0    -1   1    0   
@@ -169,12 +169,12 @@ Connection ~ 1550 3150
 Wire Wire Line
 	1550 3150 1550 3050
 $Comp
-L charger_stepup-rescue:R R3
+L charger_stepup-rescue:R Rprog1
 U 1 1 61BF7C95
 P 4450 2150
-F 0 "R3" V 4243 2150 50  0000 C CNN
+F 0 "Rprog1" V 4243 2150 50  0000 C CNN
 F 1 "10k" V 4334 2150 50  0000 C CNN
-F 2 "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 4380 2150 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4380 2150 50  0001 C CNN
 F 3 "" H 4450 2150 50  0001 C CNN
 	1    4450 2150
 	0    -1   1    0   
@@ -194,10 +194,10 @@ Wire Wire Line
 Connection ~ 4750 2150
 Connection ~ 3550 3150
 $Comp
-L charger_stepup-rescue:C C2b
+L charger_stepup-rescue:C C2b1
 U 1 1 61BF9483
 P 5100 2250
-F 0 "C2b" H 5215 2296 50  0000 L CNN
+F 0 "C2b1" H 5215 2296 50  0000 L CNN
 F 1 "10uF" H 5215 2205 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5138 2100 50  0001 C CNN
 F 3 "" H 5100 2250 50  0001 C CNN
@@ -236,10 +236,10 @@ BAT-
 Text HLabel 9300 2700 2    50   Input ~ 0
 OUT-
 $Comp
-L charger_stepup-rescue:FS8205A U3b
+L charger_stepup-rescue:FS8205A U3b1
 U 1 1 61BFD8A1
 P 7100 3800
-F 0 "U3b" H 7428 3753 60  0000 L CNN
+F 0 "U3b1" H 7428 3753 60  0000 L CNN
 F 1 "FS8205A" H 7428 3647 60  0000 L CNN
 F 2 "Package_SO:TSSOP-8_4.4x3mm_P0.65mm" H 8050 4050 60  0001 C CNN
 F 3 "" H 8050 4050 60  0001 C CNN
@@ -253,23 +253,23 @@ Wire Wire Line
 Wire Wire Line
 	7000 4450 7100 4450
 $Comp
-L charger_stepup-rescue:R R5b
+L charger_stepup-rescue:R R5b1
 U 1 1 61C0060E
 P 8200 2000
-F 0 "R5b" V 7993 2000 50  0000 C CNN
+F 0 "R5b1" V 7993 2000 50  0000 C CNN
 F 1 "100" V 8084 2000 50  0000 C CNN
-F 2 "" V 8130 2000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 8130 2000 50  0001 C CNN
 F 3 "" H 8200 2000 50  0001 C CNN
 	1    8200 2000
 	0    -1   1    0   
 $EndComp
 $Comp
-L charger_stepup-rescue:R R4b
+L charger_stepup-rescue:R R4b1
 U 1 1 61C01305
 P 6000 2450
-F 0 "R4b" H 5930 2496 50  0000 R CNN
+F 0 "R4b1" H 5930 2496 50  0000 R CNN
 F 1 "1k" H 5930 2405 50  0000 R CNN
-F 2 "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 5930 2450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5930 2450 50  0001 C CNN
 F 3 "" H 6000 2450 50  0001 C CNN
 	1    6000 2450
 	-1   0    0    -1  
@@ -322,10 +322,10 @@ Connection ~ 7650 2500
 Wire Wire Line
 	7650 2500 7850 2500
 $Comp
-L charger_stepup-rescue:C C3b
+L charger_stepup-rescue:C C3b1
 U 1 1 61C0CB86
 P 7850 2250
-F 0 "C3b" H 7965 2296 50  0000 L CNN
+F 0 "C3b1" H 7965 2296 50  0000 L CNN
 F 1 "0.1uF" H 7965 2205 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7888 2100 50  0001 C CNN
 F 3 "" H 7850 2250 50  0001 C CNN
@@ -379,10 +379,10 @@ Connection ~ 7100 4650
 Wire Wire Line
 	7100 4650 8900 4650
 $Comp
-L charger_stepup-rescue:CONN_01X01 J3
+L charger_stepup-rescue:CONN_01X01 J9
 U 1 1 61C1A7A3
 P 10350 950
-F 0 "J3" H 10267 725 50  0000 C CNN
+F 0 "J9" H 10267 725 50  0000 C CNN
 F 1 "CONN_out+" H 10267 816 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal" H 10350 950 50  0001 C CNN
 F 3 "" H 10350 950 50  0001 C CNN
