@@ -51,53 +51,8 @@ Wire Wire Line
 	4600 2850 4600 3500
 Wire Wire Line
 	4600 3500 5000 3500
-$Comp
-L Device:C C1
-U 1 1 61A8B370
-P 6500 3750
-F 0 "C1" H 6615 3796 50  0000 L CNN
-F 1 "0.1uF" H 6615 3705 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6538 3600 50  0001 C CNN
-F 3 "~" H 6500 3750 50  0001 C CNN
-	1    6500 3750
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5000 3600 4850 3600
-Wire Wire Line
-	5500 2850 6500 2850
-Wire Wire Line
-	6500 2850 6500 3600
-Wire Wire Line
-	6500 3600 6100 3600
-Connection ~ 6500 3600
-$Comp
-L Connector:Screw_Terminal_01x05 J2
-U 1 1 61A8FB11
-P 8250 3450
-F 0 "J2" H 8330 3492 50  0000 L CNN
-F 1 "Screw_Terminal_01x05" H 8330 3401 50  0000 L CNN
-F 2 "Connector_JST:JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical" H 8250 3450 50  0001 C CNN
-F 3 "~" H 8250 3450 50  0001 C CNN
-	1    8250 3450
-	1    0    0    -1  
-$EndComp
-Text HLabel 7850 3250 0    50   Input ~ 0
-Vcc
-Text HLabel 7850 3350 0    50   Input ~ 0
-GND
-Text HLabel 7850 3450 0    50   Input ~ 0
-SCL
-Text HLabel 7850 3550 0    50   Input ~ 0
-SDA
-Text HLabel 7850 3650 0    50   Input ~ 0
-ADDR
-Wire Wire Line
-	8050 3350 7850 3350
-Wire Wire Line
-	8050 3450 7950 3450
-Wire Wire Line
-	8050 3550 7950 3550
 $Comp
 L Device:R R10
 U 1 1 61A9346F
@@ -121,23 +76,11 @@ F 3 "~" H 7000 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7950 3400 7950 3450
-Connection ~ 7950 3450
-Wire Wire Line
-	7950 3450 7850 3450
-Wire Wire Line
-	7950 3500 7950 3550
-Connection ~ 7950 3550
-Wire Wire Line
-	7950 3550 7850 3550
-Wire Wire Line
 	7000 3200 7000 3000
 Wire Wire Line
 	7350 3000 7350 3100
 Wire Wire Line
 	7000 3000 7150 3000
-Wire Wire Line
-	7850 3650 8050 3650
 Text HLabel 7150 2900 1    50   Input ~ 0
 Vcc
 Wire Wire Line
@@ -145,8 +88,6 @@ Wire Wire Line
 Connection ~ 7150 3000
 Wire Wire Line
 	7150 3000 7350 3000
-Wire Wire Line
-	7850 3250 8050 3250
 Text HLabel 4400 2850 0    50   Input ~ 0
 Vcc
 Wire Wire Line
@@ -159,14 +100,8 @@ Wire Wire Line
 Connection ~ 4850 3600
 Wire Wire Line
 	4850 3600 4600 3600
-Text HLabel 6200 3500 2    50   Input ~ 0
-SCL
-Text HLabel 6200 3700 2    50   Input ~ 0
-SDA
 Wire Wire Line
 	6200 3500 6100 3500
-Wire Wire Line
-	6200 3700 6100 3700
 $Comp
 L Device:R R8
 U 1 1 61A8BE3F
@@ -190,12 +125,44 @@ Wire Wire Line
 	5000 4250 5000 3700
 Connection ~ 4600 4250
 Wire Wire Line
-	5000 4250 6500 4250
-Wire Wire Line
-	6500 4250 6500 3900
+	6200 3700 6100 3700
+Text HLabel 7450 3750 2    50   Input ~ 0
+SCL
+Text HLabel 7450 3650 2    50   Input ~ 0
+SDA
 Connection ~ 5000 4250
 Wire Wire Line
-	7350 3400 7950 3400
+	6500 4250 6500 3900
 Wire Wire Line
-	7000 3500 7950 3500
+	5000 4250 6500 4250
+Text HLabel 6200 3700 2    50   Input ~ 0
+SDA
+Text HLabel 6200 3500 2    50   Input ~ 0
+SCL
+Connection ~ 6500 3600
+Wire Wire Line
+	6500 3600 6100 3600
+Wire Wire Line
+	6500 2850 6500 3600
+Wire Wire Line
+	5500 2850 6500 2850
+$Comp
+L Device:C C1
+U 1 1 61A8B370
+P 6500 3750
+F 0 "C1" H 6615 3796 50  0000 L CNN
+F 1 "0.1uF" H 6615 3705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6538 3600 50  0001 C CNN
+F 3 "~" H 6500 3750 50  0001 C CNN
+	1    6500 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 3400 7350 3650
+Wire Wire Line
+	7350 3650 7450 3650
+Wire Wire Line
+	7450 3750 7000 3750
+Wire Wire Line
+	7000 3750 7000 3500
 $EndSCHEMATC

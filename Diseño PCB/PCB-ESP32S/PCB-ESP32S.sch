@@ -110,13 +110,9 @@ Wire Wire Line
 Wire Wire Line
 	8150 3650 8400 3650
 Text GLabel 8150 3800 0    50   Input ~ 0
-IO4
+IO2
 Wire Wire Line
 	8150 3800 8400 3800
-Text GLabel 6050 4350 2    50   Input ~ 0
-IO4
-Wire Wire Line
-	6050 4350 6000 4350
 $Sheet
 S 9500 3400 750  600 
 U 61A61E97
@@ -169,24 +165,24 @@ F4 "3.3V" I R 3600 5850 50
 F5 "GND" I L 2100 6000 50 
 $EndSheet
 $Sheet
-S 7700 4600 1050 800 
+S 7700 4600 850  800 
 U 619FC5E1
-F0 "Sheet619FC5E0" 50
+F0 "YL-100" 50
 F1 "pines_sensor.sch" 50
 F2 "VCC" I L 7700 4800 50 
 F3 "GND" I L 7700 5300 50 
-F4 "Aout" I R 8750 4800 50 
-F5 "Dout" I R 8750 5300 50 
+F4 "Aout" I R 8550 4800 50 
+F5 "Dout" I R 8550 5300 50 
 $EndSheet
 $Sheet
-S 9200 4600 1050 800 
+S 9200 4600 850  800 
 U 61A90AD5
-F0 "sheet61A90ACF" 50
+F0 "MQ-135" 50
 F1 "pines_sensor.sch" 50
 F2 "VCC" I L 9200 4800 50 
 F3 "GND" I L 9200 5300 50 
-F4 "Aout" I R 10250 4800 50 
-F5 "Dout" I R 10250 5300 50 
+F4 "Aout" I R 10050 4800 50 
+F5 "Dout" I R 10050 5300 50 
 $EndSheet
 Connection ~ 2800 2500
 Wire Wire Line
@@ -269,17 +265,6 @@ F 1 "+3.3V" H 2815 2573 50  0000 C CNN
 F 2 "" H 2800 2400 50  0001 C CNN
 F 3 "" H 2800 2400 50  0001 C CNN
 	1    2800 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L PCB-ESP32S-rescue:ESP-32S-ESP32S-PCB-ESP32S-rescue-PCB-ESP32S-rescue U1
-U 1 1 619F8438
-P 5100 3800
-F 0 "U1" H 5075 5187 60  0000 C CNN
-F 1 "ESP-32S" H 5075 5081 60  0000 C CNN
-F 2 "ESP32S:ESP-32S" H 5450 5150 60  0001 C CNN
-F 3 "" H 4650 4250 60  0001 C CNN
-	1    5100 3800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -564,4 +549,73 @@ Wire Wire Line
 Wire Wire Line
 	7500 1700 6950 1700
 NoConn ~ 9150 2700
+$Comp
+L PCB-ESP32S-rescue:ESP-32S-ESP32S-PCB-ESP32S-rescue-PCB-ESP32S-rescue U1
+U 1 1 619F8438
+P 5100 3800
+F 0 "U1" H 5075 5187 60  0000 C CNN
+F 1 "ESP-32S" H 5075 5081 60  0000 C CNN
+F 2 "ESP32S:ESP-32S" H 5450 5150 60  0001 C CNN
+F 3 "" H 4650 4250 60  0001 C CNN
+	1    5100 3800
+	1    0    0    -1  
+$EndComp
+Text GLabel 5650 4850 2    50   Input ~ 0
+IO2
+Wire Wire Line
+	5550 4850 5650 4850
+Text GLabel 8350 2950 0    50   Input ~ 0
+IO32
+Text GLabel 9500 2500 2    50   Input ~ 0
+IO33
+Wire Wire Line
+	9500 2500 9150 2500
+Wire Wire Line
+	8550 2700 8450 2700
+Wire Wire Line
+	8450 2700 8450 2950
+Wire Wire Line
+	8450 2950 8350 2950
+Text GLabel 3950 3800 0    50   Input ~ 0
+IO32
+Text GLabel 3950 3900 0    50   Input ~ 0
+IO33
+Wire Wire Line
+	3950 3800 4150 3800
+Wire Wire Line
+	3950 3900 4150 3900
+Text GLabel 8650 4800 2    50   Input ~ 0
+IO12
+Text GLabel 10150 4800 2    50   Input ~ 0
+IO14
+Wire Wire Line
+	10150 4800 10050 4800
+Wire Wire Line
+	8650 4800 8550 4800
+NoConn ~ 8550 5300
+NoConn ~ 10050 5300
+Text GLabel 3950 4400 0    50   Input ~ 0
+IO12
+Text GLabel 3950 4300 0    50   Input ~ 0
+IO14
+Wire Wire Line
+	3950 4300 4150 4300
+Wire Wire Line
+	3950 4400 4150 4400
+Wire Wire Line
+	9200 5300 9050 5300
+Wire Wire Line
+	9050 5300 9050 5450
+Wire Wire Line
+	7700 5300 7550 5300
+Wire Wire Line
+	7550 5300 7550 5350
+Wire Wire Line
+	9500 3850 9350 3850
+Wire Wire Line
+	9350 3850 9350 3950
+Wire Wire Line
+	2100 6000 1900 6000
+Wire Wire Line
+	1900 6000 1900 6100
 $EndSCHEMATC
