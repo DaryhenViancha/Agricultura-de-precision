@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name charger_stepup-rescue)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/lib/charger_stepup-rescue.lib)(options "")(descr ""))
+  (lib (name PCB-ESP32S-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB-ESP32S-rescue.lib)(options "")(descr ""))
+)

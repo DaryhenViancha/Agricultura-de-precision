@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name ESP32S)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/esp32s/ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+  (lib (name PCB-ESP32S-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB-ESP32S-rescue.lib)(options "")(descr ""))
+  (lib (name BH1750FVI-TR)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/BH1750FVI-TR.lib)(options "")(descr ""))
+  (lib (name sensors)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/sensors.lib)(options "")(descr ""))
+  (lib (name pines_yl100&mq135)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/pines_yl100&mq135.pretty/pines_alimentacion_sensor.lib)(options "")(descr ""))
+  (lib (name Rele12V)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/ModuloRele/SRD-05VDC-SL-C.lib)(options "")(descr ""))
+  (lib (name MMBT2222A)(type Legacy)(uri ${KIPRJMOD}/LIBRERIAS/Librerias_new/ModuloRele/MMBT2222A.lib)(options "")(descr ""))
+)

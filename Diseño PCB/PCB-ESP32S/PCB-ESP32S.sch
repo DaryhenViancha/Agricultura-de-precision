@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 8
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -154,16 +154,6 @@ Wire Wire Line
 	8550 2600 8300 2600
 Wire Wire Line
 	8300 2600 8300 2650
-$Sheet
-S 2100 5000 1500 1400
-U 61A8C81F
-F0 "Sheet61A8C81E" 50
-F1 "alimentacion.sch" 50
-F2 "5V" I R 3600 5650 50 
-F3 "12V" I L 2100 5350 50 
-F4 "3.3V" I R 3600 5850 50 
-F5 "GND" I L 2100 6000 50 
-$EndSheet
 $Sheet
 S 7700 4600 850  800 
 U 619FC5E1
@@ -402,18 +392,6 @@ F 3 "" H 8300 2450 50  0001 C CNN
 	1    8300 2450
 	1    0    0    -1  
 $EndComp
-$Sheet
-S 6100 1400 850  750 
-U 61BD2E90
-F0 "baterias" 50
-F1 "baterias.sch" 50
-F2 "IN+" I L 6100 1650 50 
-F3 "IN-" I L 6100 1900 50 
-F4 "OUT+" I R 6950 1550 50 
-F5 "BAT+" I R 6950 1850 50 
-F6 "BAT-" I R 6950 2000 50 
-F7 "OUT-" I R 6950 1700 50 
-$EndSheet
 $Comp
 L power:+5V #PWR?
 U 1 1 61BFAAB8
@@ -518,36 +496,6 @@ F 3 "" H 9350 3950 50  0001 C CNN
 	1    9350 3950
 	1    0    0    -1  
 $EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 61C036E2
-P 5850 1950
-F 0 "#PWR?" H 5850 1700 50  0001 C CNN
-F 1 "GND" H 5855 1777 50  0000 C CNN
-F 2 "" H 5850 1950 50  0001 C CNN
-F 3 "" H 5850 1950 50  0001 C CNN
-	1    5850 1950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 61C03D07
-P 7500 1750
-F 0 "#PWR?" H 7500 1500 50  0001 C CNN
-F 1 "GND" H 7505 1577 50  0000 C CNN
-F 2 "" H 7500 1750 50  0001 C CNN
-F 3 "" H 7500 1750 50  0001 C CNN
-	1    7500 1750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6100 1900 5850 1900
-Wire Wire Line
-	5850 1900 5850 1950
-Wire Wire Line
-	7500 1750 7500 1700
-Wire Wire Line
-	7500 1700 6950 1700
 NoConn ~ 9150 2700
 $Comp
 L PCB-ESP32S-rescue:ESP-32S-ESP32S-PCB-ESP32S-rescue-PCB-ESP32S-rescue U1
@@ -618,4 +566,14 @@ Wire Wire Line
 	2100 6000 1900 6000
 Wire Wire Line
 	1900 6000 1900 6100
+$Sheet
+S 2100 5000 1500 1400
+U 61A8C81F
+F0 "Sheet61A8C81E" 50
+F1 "alimentacion.sch" 50
+F2 "5V" I R 3600 5650 50 
+F3 "12V" I L 2100 5350 50 
+F4 "3.3V" I R 3600 5850 50 
+F5 "GND" I L 2100 6000 50 
+$EndSheet
 $EndSCHEMATC
