@@ -1,0 +1,42 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 6 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 6450 2550 3    50   Input ~ 0
+GND
+Text HLabel 6150 2550 3    50   Input ~ 0
+Aout
+Text HLabel 6000 2550 3    50   Input ~ 0
+VCC
+$Comp
+L PCB-ESP32S-rescue:pines_sensor-pines_yl100&mq135-PCB-ESP32S-rescue U2
+U 1 1 619FDFBF
+P 6200 2050
+AR Path="/619FC5E1/619FDFBF" Ref="U2"  Part="1" 
+AR Path="/61A90AD5/619FDFBF" Ref="U7"  Part="1" 
+AR Path="/61E0EDBD/619FDFBF" Ref="U2"  Part="1" 
+F 0 "U2" H 6578 2038 50  0000 L CNN
+F 1 "pines_sensor_2" H 6578 1947 50  0000 L CNN
+F 2 "Connector_JST:JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical" H 6200 2050 50  0000 C CNN
+F 3 "" H 6200 2050 50  0001 C CNN
+	1    6200 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 2350 6000 2550
+Wire Wire Line
+	6150 2350 6150 2550
+Wire Wire Line
+	6450 2350 6450 2550
+$EndSCHEMATC

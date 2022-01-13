@@ -1,0 +1,326 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R6
+U 1 1 61A67A98
+P 3650 3150
+F 0 "R6" H 3720 3196 50  0000 L CNN
+F 1 "R" H 3720 3105 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3580 3150 50  0001 C CNN
+F 3 "~" H 3650 3150 50  0001 C CNN
+	1    3650 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4007 D2
+U 1 1 61A68714
+P 4250 2450
+F 0 "D2" V 4204 2530 50  0000 L CNN
+F 1 "1N4007" V 4295 2530 50  0000 L CNN
+F 2 "Diode_SMD:D_SMA_Handsoldering" H 4250 2275 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 4250 2450 50  0001 C CNN
+	1    4250 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L PCB-ESP32S-rescue:MMBT2222A-MMBT2222A-PCB-ESP32S-rescue Q1
+U 1 1 61A825BF
+P 4150 3150
+F 0 "Q1" H 4294 3196 50  0000 L CNN
+F 1 "MMBT2222A" H 4294 3105 50  0000 L CNN
+F 2 "ModuloRele:SOT23" H 4150 3150 50  0001 L BNN
+F 3 "" H 4150 3150 50  0001 L BNN
+F 4 "568-4509-6-ND" H 4150 3150 50  0001 L BNN "DIGIKEY"
+F 5 "1757934" H 4150 3150 50  0001 L BNN "ELEMENT14"
+	1    4150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB-ESP32S-rescue:SRD-05VDC-SL-C-Rele12V-PCB-ESP32S-rescue K1
+U 1 1 61A82FC5
+P 4900 2400
+F 0 "K1" H 4900 2767 50  0000 C CNN
+F 1 "SRD-05VDC-SL-C" H 4900 2676 50  0000 C CNN
+F 2 "ModuloRele:RELAY_SRD-05VDC-SL-C" H 4900 2400 50  0001 L BNN
+F 3 "" H 4900 2400 50  0001 L BNN
+F 4 "IPC-7251" H 4900 2400 50  0001 L BNN "STANDARD"
+F 5 "SONGLE RELAY" H 4900 2400 50  0001 L BNN "MANUFACTURER"
+	1    4900 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Isolator:PC817 U3
+U 1 1 61A84C62
+P 2900 3050
+F 0 "U3" H 2900 3375 50  0000 C CNN
+F 1 "PC817" H 2900 3284 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm" H 2700 2850 50  0001 L CIN
+F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2900 3050 50  0001 L CNN
+	1    2900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 61A85954
+P 2000 3150
+F 0 "D1" H 1993 3367 50  0000 C CNN
+F 1 "LED" H 1993 3276 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2000 3150 50  0001 C CNN
+F 3 "~" H 2000 3150 50  0001 C CNN
+	1    2000 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 61A8CFB4
+P 2300 2350
+F 0 "R5" H 2370 2396 50  0000 L CNN
+F 1 "R" H 2370 2305 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2230 2350 50  0001 C CNN
+F 3 "~" H 2300 2350 50  0001 C CNN
+	1    2300 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x03 J1
+U 1 1 61A8F333
+P 5900 2300
+F 0 "J1" H 5980 2342 50  0000 L CNN
+F 1 "Screw_Terminal_01x03" H 5980 2251 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 5900 2300 50  0001 C CNN
+F 3 "~" H 5900 2300 50  0001 C CNN
+	1    5900 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 2300 4600 2300
+Wire Wire Line
+	4600 2600 4250 2600
+Wire Wire Line
+	4250 2600 4250 2950
+Connection ~ 4250 2600
+Wire Wire Line
+	4050 3150 3800 3150
+Wire Wire Line
+	3500 3150 3200 3150
+Wire Wire Line
+	4250 2300 3300 2300
+Wire Wire Line
+	3300 2300 3300 2950
+Wire Wire Line
+	3300 2950 3200 2950
+Connection ~ 4250 2300
+Wire Wire Line
+	3300 2300 3300 2000
+Connection ~ 3300 2300
+Wire Wire Line
+	2600 2950 2300 2950
+Wire Wire Line
+	2300 2950 2300 2500
+Wire Wire Line
+	2300 2200 2300 2000
+Wire Wire Line
+	2600 3150 2150 3150
+Wire Wire Line
+	1850 3150 1600 3150
+Wire Wire Line
+	5700 2200 5350 2200
+Wire Wire Line
+	5350 2200 5350 2300
+Wire Wire Line
+	5350 2300 5200 2300
+Wire Wire Line
+	5200 2400 5500 2400
+Wire Wire Line
+	5500 2400 5500 2300
+Wire Wire Line
+	5500 2300 5700 2300
+Wire Wire Line
+	5700 2400 5650 2400
+Wire Wire Line
+	5650 2400 5650 2600
+Wire Wire Line
+	5650 2600 5200 2600
+Text Label 5450 2200 0    50   ~ 0
+NO
+Text Label 5400 2400 0    50   ~ 0
+C
+Text Label 5400 2600 0    50   ~ 0
+NC
+Text HLabel 2300 2000 1    50   Input ~ 0
+VESP32
+Text HLabel 3300 2000 1    50   Input ~ 0
+VCC_source
+Text HLabel 4250 3350 3    50   Input ~ 0
+GND
+Text HLabel 1600 3150 0    50   Input ~ 0
+GPIO1
+$Comp
+L Diode:1N4007 D4
+U 1 1 61A9BBC4
+P 4250 4200
+F 0 "D4" V 4204 4280 50  0000 L CNN
+F 1 "1N4007" V 4295 4280 50  0000 L CNN
+F 2 "Diode_SMD:D_SMA_Handsoldering" H 4250 4025 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 4250 4200 50  0001 C CNN
+	1    4250 4200
+	0    1    1    0   
+$EndComp
+$Comp
+L PCB-ESP32S-rescue:MMBT2222A-MMBT2222A-PCB-ESP32S-rescue Q2
+U 1 1 61A9BBCC
+P 4150 4900
+F 0 "Q2" H 4294 4946 50  0000 L CNN
+F 1 "MMBT2222A" H 4294 4855 50  0000 L CNN
+F 2 "ModuloRele:SOT23" H 4150 4900 50  0001 L BNN
+F 3 "" H 4150 4900 50  0001 L BNN
+F 4 "568-4509-6-ND" H 4150 4900 50  0001 L BNN "DIGIKEY"
+F 5 "1757934" H 4150 4900 50  0001 L BNN "ELEMENT14"
+	1    4150 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCB-ESP32S-rescue:SRD-05VDC-SL-C-Rele12V-PCB-ESP32S-rescue K2
+U 1 1 61A9BBD4
+P 4900 4150
+F 0 "K2" H 4900 4517 50  0000 C CNN
+F 1 "SRD-05VDC-SL-C" H 4900 4426 50  0000 C CNN
+F 2 "ModuloRele:RELAY_SRD-05VDC-SL-C" H 4900 4150 50  0001 L BNN
+F 3 "" H 4900 4150 50  0001 L BNN
+F 4 "IPC-7251" H 4900 4150 50  0001 L BNN "STANDARD"
+F 5 "SONGLE RELAY" H 4900 4150 50  0001 L BNN "MANUFACTURER"
+	1    4900 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x03 J3
+U 1 1 61A9BBDA
+P 5900 4050
+F 0 "J3" H 5980 4092 50  0000 L CNN
+F 1 "Screw_Terminal_01x03" H 5980 4001 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 5900 4050 50  0001 C CNN
+F 3 "~" H 5900 4050 50  0001 C CNN
+	1    5900 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 4050 4600 4050
+Wire Wire Line
+	4600 4350 4250 4350
+Wire Wire Line
+	4250 4350 4250 4700
+Connection ~ 4250 4350
+Wire Wire Line
+	4250 4050 3300 4050
+Connection ~ 4250 4050
+Wire Wire Line
+	5700 3950 5350 3950
+Wire Wire Line
+	5350 3950 5350 4050
+Wire Wire Line
+	5350 4050 5200 4050
+Wire Wire Line
+	5200 4150 5500 4150
+Wire Wire Line
+	5500 4150 5500 4050
+Wire Wire Line
+	5500 4050 5700 4050
+Wire Wire Line
+	5700 4150 5650 4150
+Wire Wire Line
+	5650 4150 5650 4350
+Wire Wire Line
+	5650 4350 5200 4350
+Text Label 5450 3950 0    50   ~ 0
+NO
+Text Label 5400 4150 0    50   ~ 0
+C
+Text Label 5400 4350 0    50   ~ 0
+NC
+Text HLabel 4250 5100 3    50   Input ~ 0
+GND
+$Comp
+L Device:R R11
+U 1 1 61AA55FC
+P 3650 4900
+F 0 "R11" H 3720 4946 50  0000 L CNN
+F 1 "R" H 3720 4855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3580 4900 50  0001 C CNN
+F 3 "~" H 3650 4900 50  0001 C CNN
+	1    3650 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Isolator:PC817 U4
+U 1 1 61AA5602
+P 2900 4800
+F 0 "U4" H 2900 5125 50  0000 C CNN
+F 1 "PC817" H 2900 5034 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm" H 2700 4600 50  0001 L CIN
+F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2900 4800 50  0001 L CNN
+	1    2900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 61AA5608
+P 2000 4900
+F 0 "D3" H 1993 5117 50  0000 C CNN
+F 1 "LED" H 1993 5026 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2000 4900 50  0001 C CNN
+F 3 "~" H 2000 4900 50  0001 C CNN
+	1    2000 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 61AA560E
+P 2300 4100
+F 0 "R4" H 2370 4146 50  0000 L CNN
+F 1 "R" H 2370 4055 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2230 4100 50  0001 C CNN
+F 3 "~" H 2300 4100 50  0001 C CNN
+	1    2300 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4050 4900 3800 4900
+Wire Wire Line
+	3500 4900 3200 4900
+Wire Wire Line
+	3300 4700 3200 4700
+Wire Wire Line
+	2600 4700 2300 4700
+Wire Wire Line
+	2300 4700 2300 4250
+Wire Wire Line
+	2300 3950 2300 3750
+Wire Wire Line
+	2600 4900 2150 4900
+Wire Wire Line
+	1850 4900 1600 4900
+Text HLabel 1600 4900 0    50   Input ~ 0
+GPIO2
+Wire Wire Line
+	3300 3750 3300 4050
+Connection ~ 3300 4050
+Wire Wire Line
+	3300 4050 3300 4700
+Text HLabel 2300 3700 1    50   Input ~ 0
+VESP32
+Text HLabel 3300 3750 1    50   Input ~ 0
+VCC_source
+$EndSCHEMATC
