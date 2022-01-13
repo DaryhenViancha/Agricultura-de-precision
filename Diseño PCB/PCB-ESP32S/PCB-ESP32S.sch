@@ -271,7 +271,7 @@ F 3 "~" H 7250 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6000 3050 6550 3050
+	6000 3050 6200 3050
 Wire Wire Line
 	6900 3550 6000 3550
 Wire Wire Line
@@ -551,4 +551,11 @@ Wire Wire Line
 	7800 5100 7550 5100
 Wire Wire Line
 	7550 5100 7550 5350
+Wire Wire Line
+	6000 3150 6200 3150
+Wire Wire Line
+	6200 3150 6200 3050
+Connection ~ 6200 3050
+Wire Wire Line
+	6200 3050 6550 3050
 $EndSCHEMATC
