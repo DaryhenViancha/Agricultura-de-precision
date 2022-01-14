@@ -30,7 +30,7 @@ U 1 1 619FD77D
 P 7050 4450
 F 0 "SW2" H 7050 4717 50  0000 C CNN
 F 1 "SW_DIP_x01" H 7050 4626 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_SPST_SKQG_WithStem" H 7050 4450 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_TL3305A" H 7050 4450 50  0001 C CNN
 F 3 "~" H 7050 4450 50  0001 C CNN
 	1    7050 4450
 	1    0    0    -1  
@@ -86,13 +86,6 @@ Wire Wire Line
 	2800 2400 2800 2500
 Wire Wire Line
 	2800 3650 2800 3700
-Connection ~ 2800 2950
-Wire Wire Line
-	2800 3050 2800 2950
-Wire Wire Line
-	2800 2950 2800 2900
-Wire Wire Line
-	3250 2950 2800 2950
 Wire Wire Line
 	3250 3300 3250 2950
 Wire Wire Line
@@ -100,7 +93,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 2500 2800 2600
 Wire Wire Line
-	3350 2500 2800 2500
+	3350 2500 3100 2500
 Wire Wire Line
 	3350 3200 3350 2500
 Wire Wire Line
@@ -108,7 +101,7 @@ Wire Wire Line
 Wire Wire Line
 	3800 3100 4150 3100
 Wire Wire Line
-	3800 2800 3800 3100
+	3800 2800 3800 2900
 $Comp
 L Device:R R1
 U 1 1 619FF971
@@ -119,17 +112,6 @@ F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2730 2750 50  0
 F 3 "~" H 2800 2750 50  0001 C CNN
 	1    2800 2750
 	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_DIP_x01 SW1
-U 1 1 619FF8A4
-P 2800 3350
-F 0 "SW1" H 2800 3617 50  0000 C CNN
-F 1 "SW_DIP_x01" H 2800 3526 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_SPST_SKQG_WithStem" H 2800 3350 50  0001 C CNN
-F 3 "~" H 2800 3350 50  0001 C CNN
-	1    2800 3350
-	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR0103
@@ -428,4 +410,43 @@ Wire Wire Line
 	2100 5350 1900 5350
 Wire Wire Line
 	1900 5350 1900 5300
+Connection ~ 3100 2500
+Wire Wire Line
+	3100 2500 2800 2500
+Wire Wire Line
+	3100 2600 3100 2500
+$Comp
+L Switch:SW_DIP_x01 SW1
+U 1 1 619FF8A4
+P 2800 3350
+F 0 "SW1" H 2800 3617 50  0000 C CNN
+F 1 "SW_DIP_x01" H 2800 3526 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_TL3305A" H 2800 3350 50  0001 C CNN
+F 3 "~" H 2800 3350 50  0001 C CNN
+	1    2800 3350
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2800 2950
+Wire Wire Line
+	2800 2950 2800 2900
+Wire Wire Line
+	2800 3050 2800 2950
+$Comp
+L charger_stepup-rescue:C Cdes1
+U 1 1 61E20FBD
+P 3100 2750
+F 0 "Cdes1" H 3215 2796 50  0000 L CNN
+F 1 "100n" H 3215 2705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3138 2600 50  0001 C CNN
+F 3 "" H 3100 2750 50  0001 C CNN
+	1    3100 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3250 2950 2800 2950
+Wire Wire Line
+	3100 2900 3800 2900
+Connection ~ 3800 2900
+Wire Wire Line
+	3800 2900 3800 3100
 $EndSCHEMATC

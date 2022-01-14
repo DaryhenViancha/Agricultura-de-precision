@@ -1,1030 +1,799 @@
-240512870767680
-Button_Switch_SMD
-Nidec_Copal_SH-7010A
-4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
-rotary switch bcd
+183393124909652
+Connector_Hirose
+Hirose_BM24_BM24-40DP-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical
+Hirose BM24 series connector, BM24-40DP/2-0.35V (https://www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)
+connector Hirose  BM24 40pin header
 0
-6
-5
-Button_Switch_SMD
-Nidec_Copal_SH-7010B
-4-bit rotary coded switch, gull wing, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
-rotary switch bcd
+44
+42
+Connector_Hirose
+Hirose_BM24_BM24-40DS-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical
+Hirose BM24 series connector, BM24-40DS/2-0.35V (https://www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)
+connector Hirose 40pin receptacle vertical
 0
-6
-5
-Button_Switch_SMD
-Nidec_Copal_SH-7040B
-4-bit rotary coded switch, gull wing, Gray code, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
-rotary switch bcd
-0
-5
-5
-Button_Switch_SMD
-Panasonic_EVQPUJ_EVQPUA
-http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
-SMD SMT SPST EVQPUJ EVQPUA
+42
+42
+Connector_Hirose
+Hirose_DF3EA-02P-2H_1x02-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-02P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 4
-2
-Button_Switch_SMD
-Panasonic_EVQPUK_EVQPUB
-http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
-SMD SMT SPST EVQPUK EVQPUB
-0
-4
-2
-Button_Switch_SMD
-Panasonic_EVQPUL_EVQPUC
-http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
-SMD SMT SPST EVQPUL EVQPUC
-0
-4
-2
-Button_Switch_SMD
-Panasonic_EVQPUM_EVQPUD
-http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
-SMD SMT SPST EVQPUM EVQPUD
-0
-4
-2
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 1x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
-0
-2
-2
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile
-SMD 1x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-2
-2
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm
-SMD 1x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x4.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-2
-2
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin
-SMD 1x-dip-switch SPST Copal_CHS-01A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
-SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
-0
-2
-2
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm
-SMD 1x-dip-switch SPST Copal_CHS-01B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
-SMD DIP Switch SPST Slide 7.62mm 300mil SMD
-0
-2
-2
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_Copal_CVS-01xB_W5.9mm_P1mm
-SMD 1x-dip-switch SPST Copal_CVS-01xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)
-SMD DIP Switch SPST Slide 5.9mm 232mil
-0
-6
 3
-Button_Switch_SMD
-SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm
-SMD 1x-dip-switch SPST Omron_A6S-110x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
+Connector_Hirose
+Hirose_DF3EA-03P-2H_1x03-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-03P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
-2
-2
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 2x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_6.7x6.64mm_W8.61mm_P2.54mm_LowProfile
-SMD 2x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_9.78x7.26mm_W8.61mm_P2.54mm
-SMD 2x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x7.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_Copal_CHS-02A_W5.08mm_P1.27mm_JPin
-SMD 2x-dip-switch SPST Copal_CHS-02A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
-SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_Copal_CHS-02B_W7.62mm_P1.27mm
-SMD 2x-dip-switch SPST Copal_CHS-02B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
-SMD DIP Switch SPST Slide 7.62mm 300mil SMD
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_Copal_CVS-02xB_W5.9mm_P1mm
-SMD 2x-dip-switch SPST Copal_CVS-02xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)
-SMD DIP Switch SPST Slide 5.9mm 232mil
-0
-8
 5
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_KingTek_DSHP02TJ_W5.25mm_P1.27mm_JPin
-SMD 2x-dip-switch SPST KingTek_DSHP02TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
 4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_KingTek_DSHP02TS_W7.62mm_P1.27mm
-SMD 2x-dip-switch SPST KingTek_DSHP02TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_Omron_A6H-2101_W6.15mm_P1.27mm
-SMD 2x-dip-switch SPST Omron_A6H-2101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)
-SMD DIP Switch SPST Slide 6.15mm 242mil
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm
-SMD 2x-dip-switch SPST Omron_A6S-210x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-4
-4
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_6.7x9.18mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 3x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x9.18mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+Connector_Hirose
+Hirose_DF3EA-04P-2H_1x04-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-04P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 6
-6
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_6.7x9.18mm_W8.61mm_P2.54mm_LowProfile
-SMD 3x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x9.18mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+5
+Connector_Hirose
+Hirose_DF3EA-05P-2H_1x05-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-05P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
-6
-6
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_9.78x9.8mm_W8.61mm_P2.54mm
-SMD 3x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x9.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-6
-6
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_Copal_CVS-03xB_W5.9mm_P1mm
-SMD 3x-dip-switch SPST Copal_CVS-03xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)
-SMD DIP Switch SPST Slide 5.9mm 232mil
-0
-10
 7
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_KingTek_DSHP03TJ_W5.25mm_P1.27mm_JPin
-SMD 3x-dip-switch SPST KingTek_DSHP03TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
 6
-6
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_KingTek_DSHP03TS_W7.62mm_P1.27mm
-SMD 3x-dip-switch SPST KingTek_DSHP03TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-6
-6
-Button_Switch_SMD
-SW_DIP_SPSTx03_Slide_Omron_A6S-310x_W8.9mm_P2.54mm
-SMD 3x-dip-switch SPST Omron_A6S-310x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-6
-6
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_6.7x11.72mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 4x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x11.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+Connector_Hirose
+Hirose_DF3EA-06P-2H_1x06-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-06P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile
-SMD 4x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x11.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+7
+Connector_Hirose
+Hirose_DF3EA-07P-2H_1x07-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-07P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_9.78x12.34mm_W8.61mm_P2.54mm
-SMD 4x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x12.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_Copal_CHS-04A_W5.08mm_P1.27mm_JPin
-SMD 4x-dip-switch SPST Copal_CHS-04A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
-SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
-0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_Copal_CHS-04B_W7.62mm_P1.27mm
-SMD 4x-dip-switch SPST Copal_CHS-04B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
-SMD DIP Switch SPST Slide 7.62mm 300mil SMD
-0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_Copal_CVS-04xB_W5.9mm_P1mm
-SMD 4x-dip-switch SPST Copal_CVS-04xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)
-SMD DIP Switch SPST Slide 5.9mm 232mil
-0
-12
 9
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_KingTek_DSHP04TJ_W5.25mm_P1.27mm_JPin
-SMD 4x-dip-switch SPST KingTek_DSHP04TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
 8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_KingTek_DSHP04TS_W7.62mm_P1.27mm
-SMD 4x-dip-switch SPST KingTek_DSHP04TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_Omron_A6H-4101_W6.15mm_P1.27mm
-SMD 4x-dip-switch SPST Omron_A6H-4101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)
-SMD DIP Switch SPST Slide 6.15mm 242mil
-0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx04_Slide_Omron_A6S-410x_W8.9mm_P2.54mm
-SMD 4x-dip-switch SPST Omron_A6S-410x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-8
-8
-Button_Switch_SMD
-SW_DIP_SPSTx05_Slide_6.7x14.26mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 5x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x14.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+Connector_Hirose
+Hirose_DF3EA-08P-2H_1x08-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-08P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 10
+9
+Connector_Hirose
+Hirose_DF3EA-09P-2H_1x09-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-09P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+11
 10
-Button_Switch_SMD
-SW_DIP_SPSTx05_Slide_6.7x14.26mm_W8.61mm_P2.54mm_LowProfile
-SMD 5x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x14.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-10
-10
-Button_Switch_SMD
-SW_DIP_SPSTx05_Slide_9.78x14.88mm_W8.61mm_P2.54mm
-SMD 5x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x14.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-10
-10
-Button_Switch_SMD
-SW_DIP_SPSTx05_Slide_KingTek_DSHP05TJ_W5.25mm_P1.27mm_JPin
-SMD 5x-dip-switch SPST KingTek_DSHP05TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
-10
-10
-Button_Switch_SMD
-SW_DIP_SPSTx05_Slide_KingTek_DSHP05TS_W7.62mm_P1.27mm
-SMD 5x-dip-switch SPST KingTek_DSHP05TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-10
-10
-Button_Switch_SMD
-SW_DIP_SPSTx05_Slide_Omron_A6S-510x_W8.9mm_P2.54mm
-SMD 5x-dip-switch SPST Omron_A6S-510x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-10
-10
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_6.7x16.8mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 6x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x16.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+Connector_Hirose
+Hirose_DF3EA-10P-2H_1x10-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-10P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_6.7x16.8mm_W8.61mm_P2.54mm_LowProfile
-SMD 6x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x16.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+11
+Connector_Hirose
+Hirose_DF3EA-11P-2H_1x11-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-11P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
+13
 12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_9.78x17.42mm_W8.61mm_P2.54mm
-SMD 6x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x17.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_Copal_CHS-06A_W5.08mm_P1.27mm_JPin
-SMD 6x-dip-switch SPST Copal_CHS-06A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
-SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_Copal_CHS-06B_W7.62mm_P1.27mm
-SMD 6x-dip-switch SPST Copal_CHS-06B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
-SMD DIP Switch SPST Slide 7.62mm 300mil SMD
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_KingTek_DSHP06TJ_W5.25mm_P1.27mm_JPin
-SMD 6x-dip-switch SPST KingTek_DSHP06TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_KingTek_DSHP06TS_W7.62mm_P1.27mm
-SMD 6x-dip-switch SPST KingTek_DSHP06TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_Omron_A6H-6101_W6.15mm_P1.27mm
-SMD 6x-dip-switch SPST Omron_A6H-6101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)
-SMD DIP Switch SPST Slide 6.15mm 242mil
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx06_Slide_Omron_A6S-610x_W8.9mm_P2.54mm
-SMD 6x-dip-switch SPST Omron_A6S-610x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-12
-12
-Button_Switch_SMD
-SW_DIP_SPSTx07_Slide_6.7x19.34mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 7x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x19.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+Connector_Hirose
+Hirose_DF3EA-12P-2H_1x12-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-12P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 14
-14
-Button_Switch_SMD
-SW_DIP_SPSTx07_Slide_6.7x19.34mm_W8.61mm_P2.54mm_LowProfile
-SMD 7x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x19.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+13
+Connector_Hirose
+Hirose_DF3EA-13P-2H_1x13-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-13P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
+15
 14
-14
-Button_Switch_SMD
-SW_DIP_SPSTx07_Slide_9.78x19.96mm_W8.61mm_P2.54mm
-SMD 7x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x19.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-14
-14
-Button_Switch_SMD
-SW_DIP_SPSTx07_Slide_KingTek_DSHP07TJ_W5.25mm_P1.27mm_JPin
-SMD 7x-dip-switch SPST KingTek_DSHP07TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
-14
-14
-Button_Switch_SMD
-SW_DIP_SPSTx07_Slide_KingTek_DSHP07TS_W7.62mm_P1.27mm
-SMD 7x-dip-switch SPST KingTek_DSHP07TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-14
-14
-Button_Switch_SMD
-SW_DIP_SPSTx07_Slide_Omron_A6S-710x_W8.9mm_P2.54mm
-SMD 7x-dip-switch SPST Omron_A6S-710x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-14
-14
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_6.7x21.88mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 8x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x21.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+Connector_Hirose
+Hirose_DF3EA-14P-2H_1x14-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-14P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_6.7x21.88mm_W8.61mm_P2.54mm_LowProfile
-SMD 8x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x21.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+15
+Connector_Hirose
+Hirose_DF3EA-15P-2H_1x15-1MP_P2.00mm_Horizontal
+Hirose  series connector, DF3EA-15P-2H (https://www.hirose.com/product/document?clcode=CL0543-0332-0-51&productname=DF3EA-5P-2H(51)&series=DF3&documenttype=2DDrawing&lang=en&documentid=0001163317), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_9.78x22.5mm_W8.61mm_P2.54mm
-SMD 8x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x22.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_Copal_CHS-08A_W5.08mm_P1.27mm_JPin
-SMD 8x-dip-switch SPST Copal_CHS-08A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
-SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
-0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_Copal_CHS-08B_W7.62mm_P1.27mm
-SMD 8x-dip-switch SPST Copal_CHS-08B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
-SMD DIP Switch SPST Slide 7.62mm 300mil SMD
-0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm
-SMD 8x-dip-switch SPST Copal_CVS-08xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)
-SMD DIP Switch SPST Slide 5.9mm 232mil
-0
-20
 17
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_KingTek_DSHP08TJ_W5.25mm_P1.27mm_JPin
-SMD 8x-dip-switch SPST KingTek_DSHP08TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
 16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_KingTek_DSHP08TS_W7.62mm_P1.27mm
-SMD 8x-dip-switch SPST KingTek_DSHP08TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
+Connector_Hirose
+Hirose_DF11-4DP-2DSA_2x02_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-4DP-2DSA, 2 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
 0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_Omron_A6H-8101_W6.15mm_P1.27mm
-SMD 8x-dip-switch SPST Omron_A6H-8101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)
-SMD DIP Switch SPST Slide 6.15mm 242mil
-0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx08_Slide_Omron_A6S-810x_W8.9mm_P2.54mm
-SMD 8x-dip-switch SPST Omron_A6S-810x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-16
-16
-Button_Switch_SMD
-SW_DIP_SPSTx09_Slide_6.7x24.42mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 9x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x24.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
-0
-18
-18
-Button_Switch_SMD
-SW_DIP_SPSTx09_Slide_6.7x24.42mm_W8.61mm_P2.54mm_LowProfile
-SMD 9x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x24.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-18
-18
-Button_Switch_SMD
-SW_DIP_SPSTx09_Slide_9.78x25.04mm_W8.61mm_P2.54mm
-SMD 9x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x25.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-18
-18
-Button_Switch_SMD
-SW_DIP_SPSTx09_Slide_KingTek_DSHP09TJ_W5.25mm_P1.27mm_JPin
-SMD 9x-dip-switch SPST KingTek_DSHP09TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
-18
-18
-Button_Switch_SMD
-SW_DIP_SPSTx09_Slide_KingTek_DSHP09TS_W7.62mm_P1.27mm
-SMD 9x-dip-switch SPST KingTek_DSHP09TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-18
-18
-Button_Switch_SMD
-SW_DIP_SPSTx09_Slide_Omron_A6S-910x_W8.9mm_P2.54mm
-SMD 9x-dip-switch SPST Omron_A6S-910x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-18
-18
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_6.7x26.96mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 10x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x26.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_6.7x26.96mm_W8.61mm_P2.54mm_LowProfile
-SMD 10x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x26.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_9.78x27.58mm_W8.61mm_P2.54mm
-SMD 10x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x27.58mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_Copal_CHS-10A_W5.08mm_P1.27mm_JPin
-SMD 10x-dip-switch SPST Copal_CHS-10A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
-SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_Copal_CHS-10B_W7.62mm_P1.27mm
-SMD 10x-dip-switch SPST Copal_CHS-10B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
-SMD DIP Switch SPST Slide 7.62mm 300mil SMD
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_KingTek_DSHP10TJ_W5.25mm_P1.27mm_JPin
-SMD 10x-dip-switch SPST KingTek_DSHP10TJ, Slide, row spacing 5.25 mm (206 mils), body size  (see http://www.kingtek.net.cn/pic/201601201446313350.pdf), JPin
-SMD DIP Switch SPST Slide 5.25mm 206mil JPin
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_KingTek_DSHP10TS_W7.62mm_P1.27mm
-SMD 10x-dip-switch SPST KingTek_DSHP10TS, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.kingtek.net.cn/pic/201601201417455112.pdf)
-SMD DIP Switch SPST Slide 7.62mm 300mil
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_Omron_A6H-10101_W6.15mm_P1.27mm
-SMD 10x-dip-switch SPST Omron_A6H-10101, Slide, row spacing 6.15 mm (242 mils), body size  (see https://www.omron.com/ecb/products/pdf/en-a6h.pdf)
-SMD DIP Switch SPST Slide 6.15mm 242mil
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx10_Slide_Omron_A6S-1010x_W8.9mm_P2.54mm
-SMD 10x-dip-switch SPST Omron_A6S-1010x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
-SMD DIP Switch SPST Slide 8.9mm 350mil
-0
-20
-20
-Button_Switch_SMD
-SW_DIP_SPSTx11_Slide_6.7x29.5mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 11x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x29.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
-0
-22
-22
-Button_Switch_SMD
-SW_DIP_SPSTx11_Slide_6.7x29.5mm_W8.61mm_P2.54mm_LowProfile
-SMD 11x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x29.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-22
-22
-Button_Switch_SMD
-SW_DIP_SPSTx11_Slide_9.78x30.12mm_W8.61mm_P2.54mm
-SMD 11x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x30.12mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-22
-22
-Button_Switch_SMD
-SW_DIP_SPSTx12_Slide_6.7x32.04mm_W6.73mm_P2.54mm_LowProfile_JPin
-SMD 12x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
-SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
-0
-24
-24
-Button_Switch_SMD
-SW_DIP_SPSTx12_Slide_6.7x32.04mm_W8.61mm_P2.54mm_LowProfile
-SMD 12x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
-0
-24
-24
-Button_Switch_SMD
-SW_DIP_SPSTx12_Slide_9.78x32.66mm_W8.61mm_P2.54mm
-SMD 12x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x32.66mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
-SMD DIP Switch SPST Slide 8.61mm 338mil SMD
-0
-24
-24
-Button_Switch_SMD
-SW_DPDT_CK_JS202011JCQN
-Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
-switch DPDT SMT
+4
+4
+Connector_Hirose
+Hirose_DF11-6DP-2DSA_2x03_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-6DP-2DSA, 3 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
 0
 6
 6
-Button_Switch_SMD
-SW_MEC_5GSH9
-MEC 5G single pole normally-open tactile switch
-switch normally-open pushbutton push-button
-0
-4
-4
-Button_Switch_SMD
-SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010
-Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)
-push horizontal SPST 1P1T
-0
-5
-3
-Button_Switch_SMD
-SW_Push_1P1T-SH_NO_CK_KMR2xxG
-CK components KMR2 tactile switch with ground pin http://www.ckswitches.com/media/1479/kmr2.pdf
-tactile switch kmr2
-0
-5
-3
-Button_Switch_SMD
-SW_Push_1P1T_NO_6x6mm_H9.5mm
-tactile push button, 6x6mm e.g. PTS645xx series, height=9.5mm
-tact sw push 6mm smd
-0
-4
-2
-Button_Switch_SMD
-SW_Push_1P1T_NO_CK_KMR2
-CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf
-tactile switch kmr2
-0
-4
-2
-Button_Switch_SMD
-SW_Push_1P1T_NO_CK_KSC6xxJ
-CK components KSC6 tactile switch https://www.ckswitches.com/media/1972/ksc6.pdf
-tactile switch ksc6
-0
-4
-2
-Button_Switch_SMD
-SW_Push_1P1T_NO_CK_KSC7xxJ
-CK components KSC7 tactile switch https://www.ckswitches.com/media/1973/ksc7.pdf
-tactile switch ksc7
-0
-4
-2
-Button_Switch_SMD
-SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR
-C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs, https://www.ckswitches.com/media/1462/pts125.pdf
-Button Tactile Switch SPST 1P1T
-0
-4
-2
-Button_Switch_SMD
-SW_Push_1P1T_NO_Vertical_Wuerth_434133025816
-https://katalog.we-online.com/em/datasheet/434133025816.pdf
-tactile switch Wurth Wuerth
-0
-4
-2
-Button_Switch_SMD
-SW_Push_SPST_NO_Alps_SKRK
-http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html
-SMD SMT button
-0
-2
-2
-Button_Switch_SMD
-SW_SP3T_PCM13
-Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
-
+Connector_Hirose
+Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-8DP-2DSA, 4 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
 0
 8
-4
-Button_Switch_SMD
-SW_SPDT_CK-JS102011SAQN
-Sub-miniature slide switch, right-angle, http://www.ckswitches.com/media/1422/js.pdf
-switch spdt
+8
+Connector_Hirose
+Hirose_DF11-10DP-2DSA_2x05_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-10DP-2DSA, 5 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+10
+10
+Connector_Hirose
+Hirose_DF11-12DP-2DSA_2x06_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-12DP-2DSA, 6 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+12
+12
+Connector_Hirose
+Hirose_DF11-14DP-2DSA_2x07_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-14DP-2DSA, 7 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+14
+14
+Connector_Hirose
+Hirose_DF11-16DP-2DSA_2x08_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-16DP-2DSA, 8 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+16
+16
+Connector_Hirose
+Hirose_DF11-18DP-2DSA_2x09_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-18DP-2DSA, 9 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+18
+18
+Connector_Hirose
+Hirose_DF11-20DP-2DSA_2x10_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-20DP-2DSA, 10 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+20
+20
+Connector_Hirose
+Hirose_DF11-22DP-2DSA_2x11_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-22DP-2DSA, 11 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+22
+22
+Connector_Hirose
+Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-24DP-2DSA, 12 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+24
+24
+Connector_Hirose
+Hirose_DF11-26DP-2DSA_2x13_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-26DP-2DSA, 13 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+26
+26
+Connector_Hirose
+Hirose_DF11-28DP-2DSA_2x14_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-28DP-2DSA, 14 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+28
+28
+Connector_Hirose
+Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-30DP-2DSA, 15 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+30
+30
+Connector_Hirose
+Hirose_DF11-32DP-2DSA_2x16_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-32DP-2DSA, 16 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+32
+32
+Connector_Hirose
+Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-10DS-0.5V, 10 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+20
+10
+Connector_Hirose
+Hirose_DF12_DF12C3.0-14DS-0.5V_2x07_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-14DS-0.5V, 14 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+28
+14
+Connector_Hirose
+Hirose_DF12_DF12C3.0-20DS-0.5V_2x10_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-20DS-0.5V, 20 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+40
+20
+Connector_Hirose
+Hirose_DF12_DF12C3.0-30DS-0.5V_2x15_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-30DS-0.5V, 30 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+60
+30
+Connector_Hirose
+Hirose_DF12_DF12C3.0-32DS-0.5V_2x16_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-32DS-0.5V, 32 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+64
+32
+Connector_Hirose
+Hirose_DF12_DF12C3.0-36DS-0.5V_2x18_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-36DS-0.5V, 36 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+72
+36
+Connector_Hirose
+Hirose_DF12_DF12C3.0-40DS-0.5V_2x20_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-40DS-0.5V, 40 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+80
+40
+Connector_Hirose
+Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-50DS-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+100
+50
+Connector_Hirose
+Hirose_DF12_DF12C3.0-60DS-0.5V_2x30_P0.50mm_Vertical
+Hirose DF12C SMD, DF12C3.0-60DS-0.5V, 60 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+120
+60
+Connector_Hirose
+Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-10DP-0.5V, 10 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+20
+10
+Connector_Hirose
+Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-14DP-0.5V, 14 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+28
+14
+Connector_Hirose
+Hirose_DF12_DF12E3.0-20DP-0.5V_2x10_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-20DP-0.5V, 20 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+40
+20
+Connector_Hirose
+Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-30DP-0.5V, 30 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+60
+30
+Connector_Hirose
+Hirose_DF12_DF12E3.0-32DP-0.5V_2x16_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-32DP-0.5V, 32 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+64
+32
+Connector_Hirose
+Hirose_DF12_DF12E3.0-36DP-0.5V_2x18_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-36DP-0.5V, 36 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+72
+36
+Connector_Hirose
+Hirose_DF12_DF12E3.0-40DP-0.5V_2x20_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-40DP-0.5V, 40 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+80
+40
+Connector_Hirose
+Hirose_DF12_DF12E3.0-50DP-0.5V_2x25_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-50DP-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+100
+50
+Connector_Hirose
+Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-60DP-0.5V, 60 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+120
+60
+Connector_Hirose
+Hirose_DF12_DF12E3.0-80DP-0.5V_2x40_P0.50mm_Vertical
+Hirose DF12E SMD, DF12E3.0-80DP-0.5V, 80 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
+connector Hirose DF12 vertical
+0
+160
+80
+Connector_Hirose
+Hirose_DF13-02P-1.25DSA_1x02_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-02P-1.25DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+2
+2
+Connector_Hirose
+Hirose_DF13-02P-1.25DS_1x02_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-02P-1.25DS, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+2
+2
+Connector_Hirose
+Hirose_DF13-03P-1.25DSA_1x03_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-03P-1.25DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 3
 3
-Button_Switch_SMD
-SW_SPDT_PCM12
-Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
-
+Connector_Hirose
+Hirose_DF13-03P-1.25DS_1x03_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-03P-1.25DS, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+3
+3
+Connector_Hirose
+Hirose_DF13-04P-1.25DSA_1x04_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-04P-1.25DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+4
+4
+Connector_Hirose
+Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+4
+4
+Connector_Hirose
+Hirose_DF13-05P-1.25DSA_1x05_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-05P-1.25DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+5
+5
+Connector_Hirose
+Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-05P-1.25DS, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+5
+5
+Connector_Hirose
+Hirose_DF13-06P-1.25DSA_1x06_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-06P-1.25DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+6
+6
+Connector_Hirose
+Hirose_DF13-06P-1.25DS_1x06_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-06P-1.25DS, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+6
+6
+Connector_Hirose
+Hirose_DF13-07P-1.25DSA_1x07_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-07P-1.25DSA, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 7
-3
-Button_Switch_SMD
-SW_SPST_B3S-1000
-Surface Mount Tactile Switch for High-Density Packaging
-Tactile Switch
+7
+Connector_Hirose
+Hirose_DF13-07P-1.25DS_1x07_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-07P-1.25DS, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+7
+7
+Connector_Hirose
+Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-08P-1.25DSA, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+8
+8
+Connector_Hirose
+Hirose_DF13-08P-1.25DS_1x08_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-08P-1.25DS, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+8
+8
+Connector_Hirose
+Hirose_DF13-09P-1.25DSA_1x09_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-09P-1.25DSA, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+9
+9
+Connector_Hirose
+Hirose_DF13-09P-1.25DS_1x09_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-09P-1.25DS, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+9
+9
+Connector_Hirose
+Hirose_DF13-10P-1.25DSA_1x10_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-10P-1.25DSA, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+10
+10
+Connector_Hirose
+Hirose_DF13-10P-1.25DS_1x10_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-10P-1.25DS, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+10
+10
+Connector_Hirose
+Hirose_DF13-11P-1.25DSA_1x11_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-11P-1.25DSA, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+11
+11
+Connector_Hirose
+Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-11P-1.25DS, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+11
+11
+Connector_Hirose
+Hirose_DF13-12P-1.25DSA_1x12_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-12P-1.25DSA, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+12
+12
+Connector_Hirose
+Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-12P-1.25DS, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+12
+12
+Connector_Hirose
+Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-13P-1.25DSA, 13 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+13
+13
+Connector_Hirose
+Hirose_DF13-14P-1.25DSA_1x14_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-14P-1.25DSA, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+14
+14
+Connector_Hirose
+Hirose_DF13-14P-1.25DS_1x14_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-14P-1.25DS, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+14
+14
+Connector_Hirose
+Hirose_DF13-15P-1.25DSA_1x15_P1.25mm_Vertical
+Hirose DF13 through hole, DF13-15P-1.25DSA, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
+0
+15
+15
+Connector_Hirose
+Hirose_DF13-15P-1.25DS_1x15_P1.25mm_Horizontal
+Hirose DF13 through hole, DF13-15P-1.25DS, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
+0
+15
+15
+Connector_Hirose
+Hirose_DF13C_CL535-0402-2-51_1x02-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0402-2-51, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 4
-2
-Button_Switch_SMD
-SW_SPST_B3S-1100
-Surface Mount Tactile Switch for High-Density Packaging with Ground Terminal
-Tactile Switch
+3
+Connector_Hirose
+Hirose_DF13C_CL535-0403-5-51_1x03-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0403-5-51, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 5
-3
-Button_Switch_SMD
-SW_SPST_B3SL-1002P
-Middle Stroke Tactile Switch, B3SL
-Middle Stroke Tactile Switch
-0
 4
-2
-Button_Switch_SMD
-SW_SPST_B3SL-1022P
-Middle Stroke Tactile Switch, B3SL
-Middle Stroke Tactile Switch
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_B3U-1000P
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
-Tactile Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_B3U-1000P-B
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, with Boss
-Tactile Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_B3U-1100P
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, without Boss
-Tactile Switch
-0
-3
-3
-Button_Switch_SMD
-SW_SPST_B3U-1100P-B
-Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, with Boss
-Tactile Switch
-0
-3
-3
-Button_Switch_SMD
-SW_SPST_B3U-3000P
-Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, without Boss
-Tactile Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_B3U-3000P-B
-Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, with Boss
-Tactile Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_B3U-3100P
-Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, without Boss
-Tactile Switch
-0
-3
-3
-Button_Switch_SMD
-SW_SPST_B3U-3100P-B
-Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, with Boss
-Tactile Switch
-0
-3
-3
-Button_Switch_SMD
-SW_SPST_CK_KXT3
-https://www.ckswitches.com/media/1465/kxt3.pdf
-Switch SPST KXT3
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_CK_RS282G05A3
-https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf
-SPST button tactile switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_EVPBF
-Light Touch Switch
-
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_EVQP0
-Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf
-
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_EVQP2
-Light Touch Switch
-
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_EVQP7A
-Light Touch Switch,https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE20.pdf
-
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_EVQP7C
-Light Touch Switch
-
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_EVQPE1
-Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE7.pdf
-
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_EVQQ2
-Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf
-
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_FSMSM
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
-SPST button tactile switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_Omron_B3FS-100xP
-Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
-Tactile Switch
-0
-4
-4
-Button_Switch_SMD
-SW_SPST_Omron_B3FS-101xP
-Surface Mount Tactile Switch for High-Density Mounting, 4.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
-Tactile Switch
-0
-4
-4
-Button_Switch_SMD
-SW_SPST_Omron_B3FS-105xP
-Surface Mount Tactile Switch for High-Density Mounting, 7.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
-Tactile Switch
-0
-4
-4
-Button_Switch_SMD
-SW_SPST_PTS645
-C&K Components SPST SMD PTS645 Series 6mm Tact Switch
-SPST Button Switch
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_PTS810
-C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
-SPST Button Switch
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08
-Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf
-SMD SMT SPST EVQPL EVQPT
+Connector_Hirose
+Hirose_DF13C_CL535-0404-8-51_1x04-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0404-8-51, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 6
+5
+Connector_Hirose
+Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0405-0-51, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+7
+6
+Connector_Hirose
+Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0406-3-51, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+8
+7
+Connector_Hirose
+Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0407-6-51, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+9
+8
+Connector_Hirose
+Hirose_DF13C_CL535-0408-9-51_1x08-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0408-9-51, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+10
+9
+Connector_Hirose
+Hirose_DF13C_CL535-0409-1-51_1x09-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0409-1-51, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+11
+10
+Connector_Hirose
+Hirose_DF13C_CL535-0410-4-51_1x10-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0410-4-51, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+12
+11
+Connector_Hirose
+Hirose_DF13C_CL535-0411-3-51_1x11-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0411-3-51, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+13
+12
+Connector_Hirose
+Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0412-6-51, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+14
+13
+Connector_Hirose
+Hirose_DF13C_CL535-0414-1-51_1x14-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0414-1-51, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+16
+15
+Connector_Hirose
+Hirose_DF13C_CL535-0415-4-51_1x15-1MP_P1.25mm_Vertical
+Hirose DF13C SMD, CL535-0415-4-51, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
+0
+17
+16
+Connector_Hirose
+Hirose_DF52-2S-0.8H_1x02-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-2S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+4
 3
-Button_Switch_SMD
-SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15
-Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf
-SMD SMT SPST EVQPL EVQPT
+Connector_Hirose
+Hirose_DF52-3S-0.8H_1x03-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-3S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+5
+4
+Connector_Hirose
+Hirose_DF52-4S-0.8H_1x04-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-4S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
 6
+5
+Connector_Hirose
+Hirose_DF52-5S-0.8H_1x05-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-5S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+7
+6
+Connector_Hirose
+Hirose_DF52-6S-0.8H_1x06-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-6S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+8
+7
+Connector_Hirose
+Hirose_DF52-7S-0.8H_1x07-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-7S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+9
+8
+Connector_Hirose
+Hirose_DF52-8S-0.8H_1x08-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-8S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+10
+9
+Connector_Hirose
+Hirose_DF52-9S-0.8H_1x09-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-9S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+11
+10
+Connector_Hirose
+Hirose_DF52-10S-0.8H_1x10-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-10S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+12
+11
+Connector_Hirose
+Hirose_DF52-11S-0.8H_1x11-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-11S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+13
+12
+Connector_Hirose
+Hirose_DF52-12S-0.8H_1x12-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-12S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+14
+13
+Connector_Hirose
+Hirose_DF52-14S-0.8H_1x14-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-14S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+16
+15
+Connector_Hirose
+Hirose_DF52-15S-0.8H_1x15-1MP_P0.80mm_Horizontal
+Hirose  series connector, DF52-15S-0.8H (https://www.hirose.com/product/en/products/DF52/DF52-3S-0.8H%2821%29/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+17
+16
+Connector_Hirose
+Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
+Hirose DF63 through hole, DF63-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
+5
+5
+Connector_Hirose
+Hirose_DF63-6P-3.96DSA_1x06_P3.96mm_Vertical
+Hirose DF63 through hole, DF63-6P-3.96DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
+6
+6
+Connector_Hirose
+Hirose_DF63M-1P-3.96DSA_1x01_P3.96mm_Vertical
+Hirose DF63 through hole, DF63M-1P-3.96DSA, 1 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
+1
+1
+Connector_Hirose
+Hirose_DF63M-2P-3.96DSA_1x02_P3.96mm_Vertical
+Hirose DF63 through hole, DF63M-2P-3.96DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
+2
+2
+Connector_Hirose
+Hirose_DF63M-3P-3.96DSA_1x03_P3.96mm_Vertical
+Hirose DF63 through hole, DF63M-3P-3.96DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
 3
-Button_Switch_SMD
-SW_SPST_REED_CT05-XXXX-G1
-Coto Technologies SPST Reed Switch CT05-XXXX-G1
-Coto Reed SPST Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_REED_CT05-XXXX-J1
-Coto Technologies SPST Reed Switch CT05-XXXX-J1
-Coto Reed SPST Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_REED_CT10-XXXX-G1
-Coto Technologies SPST Reed Switch CT10-XXXX-G1
-Coto Reed SPST Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_REED_CT10-XXXX-G2
-Coto Technologies SPST Reed Switch CT10-XXXX-G2
-Coto Reed SPST Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_REED_CT10-XXXX-G4
-Coto Technologies SPST Reed Switch CT10-XXXX-G4
-Coto Reed SPST Switch
-0
-2
-2
-Button_Switch_SMD
-SW_SPST_SKQG_WithStem
-ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
-SPST Button Switch
+3
+Connector_Hirose
+Hirose_DF63M-4P-3.96DSA_1x04_P3.96mm_Vertical
+Hirose DF63 through hole, DF63M-4P-3.96DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
 0
 4
+4
+Connector_Hirose
+Hirose_DF63R-1P-3.96DSA_1x01_P3.96mm_Vertical
+Hirose DF63 through hole, DF63R-1P-3.96DSA, 1 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
+1
+1
+Connector_Hirose
+Hirose_DF63R-2P-3.96DSA_1x02_P3.96mm_Vertical
+Hirose DF63 through hole, DF63R-2P-3.96DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
 2
-Button_Switch_SMD
-SW_SPST_SKQG_WithoutStem
-ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
-SPST Button Switch
+2
+Connector_Hirose
+Hirose_DF63R-3P-3.96DSA_1x03_P3.96mm_Vertical
+Hirose DF63 through hole, DF63R-3P-3.96DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
+0
+3
+3
+Connector_Hirose
+Hirose_DF63R-4P-3.96DSA_1x04_P3.96mm_Vertical
+Hirose DF63 through hole, DF63R-4P-3.96DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
 0
 4
-2
-Button_Switch_SMD
-SW_SPST_TL3305A
-https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
-TL3305 Series Tact Switch
-0
 4
-2
-Button_Switch_SMD
-SW_SPST_TL3305B
-https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
-TL3305 Series Tact Switch
+Connector_Hirose
+Hirose_DF63R-5P-3.96DSA_1x05_P3.96mm_Vertical
+Hirose DF63 through hole, DF63R-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
+connector Hirose DF63 vertical
 0
-4
-2
-Button_Switch_SMD
-SW_SPST_TL3305C
-https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
-TL3305 Series Tact Switch
-0
-4
-2
-Button_Switch_SMD
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
+5
+5

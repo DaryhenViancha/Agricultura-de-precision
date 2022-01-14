@@ -100,7 +100,7 @@ F 3 "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF" H 4200 2850 50 
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5250 2950 5750 2950
+	5250 2950 5600 2950
 $Comp
 L pspice:CAP C6
 U 1 1 61A8758A
@@ -230,11 +230,6 @@ Wire Wire Line
 Connection ~ 3100 2900
 Wire Wire Line
 	3500 2900 3600 2900
-Wire Wire Line
-	3100 2900 3100 4450
-Wire Wire Line
-	3100 4450 3600 4450
-Connection ~ 3600 4450
 Connection ~ 3600 3850
 Connection ~ 3600 5400
 Wire Wire Line
@@ -277,4 +272,14 @@ Wire Wire Line
 	3000 4350 3000 5400
 Text HLabel 2900 2900 0    50   Input ~ 0
 12v
+Wire Wire Line
+	5600 2950 5600 4150
+Wire Wire Line
+	5600 4150 3600 4150
+Wire Wire Line
+	3600 4150 3600 4450
+Connection ~ 5600 2950
+Wire Wire Line
+	5600 2950 5750 2950
+Connection ~ 3600 4450
 $EndSCHEMATC
