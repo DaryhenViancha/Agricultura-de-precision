@@ -155,11 +155,11 @@ Wire Wire Line
 Wire Wire Line
 	5650 2600 5200 2600
 Text Label 5450 2200 0    50   ~ 0
-NO
+NO2
 Text Label 5400 2400 0    50   ~ 0
-C
+C2
 Text Label 5400 2600 0    50   ~ 0
-NC
+NC2
 Text HLabel 2300 2000 1    50   Input ~ 0
 VESP32
 Text HLabel 3300 2000 1    50   Input ~ 0
@@ -307,8 +307,6 @@ Wire Wire Line
 Wire Wire Line
 	2300 4700 2300 4250
 Wire Wire Line
-	2300 3950 2300 3750
-Wire Wire Line
 	2600 4900 2150 4900
 Wire Wire Line
 	1850 4900 1600 4900
@@ -323,4 +321,6 @@ Text HLabel 2300 3700 1    50   Input ~ 0
 VESP32
 Text HLabel 3300 3750 1    50   Input ~ 0
 VCC_source
+Wire Wire Line
+	2300 3700 2300 3950
 $EndSCHEMATC
