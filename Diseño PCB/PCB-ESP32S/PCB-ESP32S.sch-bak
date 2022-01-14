@@ -163,7 +163,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 2950 2800 2900
 Wire Wire Line
-	3250 2950 2800 2950
+	3250 2950 3150 2950
 Wire Wire Line
 	3250 3300 3250 2950
 Wire Wire Line
@@ -171,7 +171,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 2500 2800 2600
 Wire Wire Line
-	3350 2500 2800 2500
+	3350 2500 3150 2500
 Wire Wire Line
 	3350 3200 3350 2500
 Wire Wire Line
@@ -271,7 +271,7 @@ F 3 "~" H 7250 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6000 3050 6550 3050
+	6000 3050 6200 3050
 Wire Wire Line
 	6900 3550 6000 3550
 Wire Wire Line
@@ -551,4 +551,34 @@ Wire Wire Line
 	7800 5100 7550 5100
 Wire Wire Line
 	7550 5100 7550 5350
+Wire Wire Line
+	6000 3150 6200 3150
+Wire Wire Line
+	6200 3150 6200 3050
+Connection ~ 6200 3050
+Wire Wire Line
+	6200 3050 6550 3050
+$Comp
+L charger_stepup-rescue:C Cdes
+U 1 1 61E38249
+P 3150 2700
+AR Path="/61E38249" Ref="Cdes"  Part="1" 
+AR Path="/61A8C81F/61E38249" Ref="Cdes"  Part="1" 
+F 0 "Cdes" H 3265 2746 50  0000 L CNN
+F 1 "100n" H 3265 2655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3188 2550 50  0001 C CNN
+F 3 "" H 3150 2700 50  0001 C CNN
+	1    3150 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 2550 3150 2500
+Connection ~ 3150 2500
+Wire Wire Line
+	3150 2500 2800 2500
+Wire Wire Line
+	3150 2850 3150 2950
+Connection ~ 3150 2950
+Wire Wire Line
+	3150 2950 2800 2950
 $EndSCHEMATC
