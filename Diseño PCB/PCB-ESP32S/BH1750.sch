@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector_Generic:Conn_01x05 J1
+L Connector_Generic:Conn_01x05 J3
 U 1 1 61E257B3
 P 5300 3450
-AR Path="/61A843AA/61E257B3" Ref="J1"  Part="1" 
+AR Path="/61A843AA/61E257B3" Ref="J3"  Part="1" 
 AR Path="/61A90AD5/61E257B3" Ref="BH1750"  Part="1" 
-F 0 "J1" V 5264 3162 50  0000 R CNN
+F 0 "J3" V 5264 3162 50  0000 R CNN
 F 1 "Conn_01x04" V 5173 3162 50  0000 R CNN
 F 2 "Connector_JST:JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical" H 5300 3450 50  0001 C CNN
 F 3 "~" H 5300 3450 50  0001 C CNN
