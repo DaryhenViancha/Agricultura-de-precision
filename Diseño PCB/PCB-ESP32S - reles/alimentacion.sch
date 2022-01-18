@@ -264,7 +264,7 @@ Connection ~ 3000 4350
 Wire Wire Line
 	3000 4350 3000 5400
 Text HLabel 2900 2900 0    50   Input ~ 0
-12v
++12V
 Wire Wire Line
 	3600 4150 3600 4450
 Connection ~ 3600 4450

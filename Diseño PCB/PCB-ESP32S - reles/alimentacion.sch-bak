@@ -268,39 +268,9 @@ Text HLabel 2900 2900 0    50   Input ~ 0
 Wire Wire Line
 	3600 4150 3600 4450
 Connection ~ 3600 4450
-$Comp
-L Device:R R19
-U 1 1 61E517FC
-P 5800 2950
-F 0 "R19" H 5870 2996 50  0000 L CNN
-F 1 "0" H 5870 2905 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5730 2950 50  0001 C CNN
-F 3 "~" H 5800 2950 50  0001 C CNN
-	1    5800 2950
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5950 2950 6000 2950
 Wire Wire Line
 	5250 5000 5250 4950
-$Comp
-L Device:R R3
-U 1 1 61E578E9
-P 5450 4450
-F 0 "R3" H 5520 4496 50  0000 L CNN
-F 1 "0" H 5520 4405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5380 4450 50  0001 C CNN
-F 3 "~" H 5450 4450 50  0001 C CNN
-	1    5450 4450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	5750 4450 5600 4450
-Wire Wire Line
-	5300 4450 5250 4450
 Connection ~ 5250 4450
-Wire Wire Line
-	5250 2950 5650 2950
 Wire Wire Line
 	6000 4150 6000 2950
 Connection ~ 6000 2950
@@ -308,4 +278,8 @@ Wire Wire Line
 	6000 2950 6100 2950
 Wire Wire Line
 	3600 4150 6000 4150
+Wire Wire Line
+	5250 4450 5750 4450
+Wire Wire Line
+	5250 2950 6000 2950
 $EndSCHEMATC
