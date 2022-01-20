@@ -21,7 +21,7 @@ AR Path="/61A00323" Ref="TH?"  Part="1"
 AR Path="/61A137FE/61A00323" Ref="TH1"  Part="1" 
 F 0 "TH1" H 2778 2820 60  0000 L CNN
 F 1 "DHT22_Temperature_Humidity" H 2778 2714 60  0000 L CNN
-F 2 "Connector_JST:JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical" H 2500 2350 60  0000 C CNN
+F 2 "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical" H 2500 2350 60  0000 C CNN
 F 3 "" H 2500 2350 60  0000 C CNN
 	1    2500 2350
 	1    0    0    -1  
