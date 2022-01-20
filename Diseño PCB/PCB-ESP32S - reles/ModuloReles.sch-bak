@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Device:R R6
+L Device:R R9
 U 1 1 61A67A98
 P 3650 3150
-F 0 "R6" H 3720 3196 50  0000 L CNN
+F 0 "R9" H 3720 3196 50  0000 L CNN
 F 1 "R" H 3720 3105 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3580 3150 50  0001 C CNN
 F 3 "~" H 3650 3150 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "~" H 3650 3150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Diode:1N4007 D2
+L Diode:1N4007 D7
 U 1 1 61A68714
 P 4250 2450
-F 0 "D2" V 4204 2530 50  0000 L CNN
+F 0 "D7" V 4204 2530 50  0000 L CNN
 F 1 "1N4007" V 4295 2530 50  0000 L CNN
 F 2 "Diode_SMD:D_SMA_Handsoldering" H 4250 2275 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 4250 2450 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 4250 2450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L PCB-ESP32S-rescue:MMBT2222A-MMBT2222A-PCB-ESP32S-rescue Q1
+L PCB-ESP32S-rescue:MMBT2222A-MMBT2222A-PCB-ESP32S-rescue Q2
 U 1 1 61A825BF
 P 4150 3150
-F 0 "Q1" H 4294 3196 50  0000 L CNN
+F 0 "Q2" H 4294 3196 50  0000 L CNN
 F 1 "MMBT2222A" H 4294 3105 50  0000 L CNN
 F 2 "ModuloRele:SOT23" H 4150 3150 50  0001 L BNN
 F 3 "" H 4150 3150 50  0001 L BNN
@@ -62,10 +62,10 @@ F 5 "SONGLE RELAY" H 4900 2400 50  0001 L BNN "MANUFACTURER"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Isolator:PC817 U3
+L Isolator:PC817 U4
 U 1 1 61A84C62
 P 2900 3050
-F 0 "U3" H 2900 3375 50  0000 C CNN
+F 0 "U4" H 2900 3375 50  0000 C CNN
 F 1 "PC817" H 2900 3284 50  0000 C CNN
 F 2 "Package_DIP:DIP-4_W7.62mm" H 2700 2850 50  0001 L CIN
 F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2900 3050 50  0001 L CNN
@@ -73,10 +73,10 @@ F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2900 3050 50  00
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D1
+L Device:LED D5
 U 1 1 61A85954
 P 2000 3150
-F 0 "D1" H 1993 3367 50  0000 C CNN
+F 0 "D5" H 1993 3367 50  0000 C CNN
 F 1 "LED" H 1993 3276 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2000 3150 50  0001 C CNN
 F 3 "~" H 2000 3150 50  0001 C CNN
@@ -84,10 +84,10 @@ F 3 "~" H 2000 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R5
+L Device:R R8
 U 1 1 61A8CFB4
 P 2300 2350
-F 0 "R5" H 2370 2396 50  0000 L CNN
+F 0 "R8" H 2370 2396 50  0001 L CNN
 F 1 "R" H 2370 2305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2230 2350 50  0001 C CNN
 F 3 "~" H 2300 2350 50  0001 C CNN
@@ -95,10 +95,10 @@ F 3 "~" H 2300 2350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Screw_Terminal_01x03 J1
+L Connector:Screw_Terminal_01x03 J3
 U 1 1 61A8F333
 P 5900 2300
-F 0 "J1" H 5980 2342 50  0000 L CNN
+F 0 "J3" H 5980 2342 50  0000 L CNN
 F 1 "Screw_Terminal_01x03" H 5980 2251 50  0000 L CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 5900 2300 50  0001 C CNN
 F 3 "~" H 5900 2300 50  0001 C CNN
@@ -169,10 +169,10 @@ GND
 Text HLabel 1600 3150 0    50   Input ~ 0
 GPIO1
 $Comp
-L Diode:1N4007 D4
+L Diode:1N4007 D8
 U 1 1 61A9BBC4
 P 4250 4200
-F 0 "D4" V 4204 4280 50  0000 L CNN
+F 0 "D8" V 4204 4280 50  0000 L CNN
 F 1 "1N4007" V 4295 4280 50  0000 L CNN
 F 2 "Diode_SMD:D_SMA_Handsoldering" H 4250 4025 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 4250 4200 50  0001 C CNN
@@ -180,10 +180,10 @@ F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 4250 4200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L PCB-ESP32S-rescue:MMBT2222A-MMBT2222A-PCB-ESP32S-rescue Q2
+L PCB-ESP32S-rescue:MMBT2222A-MMBT2222A-PCB-ESP32S-rescue Q3
 U 1 1 61A9BBCC
 P 4150 4900
-F 0 "Q2" H 4294 4946 50  0000 L CNN
+F 0 "Q3" H 4294 4946 50  0000 L CNN
 F 1 "MMBT2222A" H 4294 4855 50  0000 L CNN
 F 2 "ModuloRele:SOT23" H 4150 4900 50  0001 L BNN
 F 3 "" H 4150 4900 50  0001 L BNN
@@ -206,10 +206,10 @@ F 5 "SONGLE RELAY" H 4900 4150 50  0001 L BNN "MANUFACTURER"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Screw_Terminal_01x03 J3
+L Connector:Screw_Terminal_01x03 J4
 U 1 1 61A9BBDA
 P 5900 4050
-F 0 "J3" H 5980 4092 50  0000 L CNN
+F 0 "J4" H 5980 4092 50  0000 L CNN
 F 1 "Screw_Terminal_01x03" H 5980 4001 50  0000 L CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 5900 4050 50  0001 C CNN
 F 3 "~" H 5900 4050 50  0001 C CNN
@@ -264,10 +264,10 @@ F 3 "~" H 3650 4900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Isolator:PC817 U4
+L Isolator:PC817 U5
 U 1 1 61AA5602
 P 2900 4800
-F 0 "U4" H 2900 5125 50  0000 C CNN
+F 0 "U5" H 2900 5125 50  0000 C CNN
 F 1 "PC817" H 2900 5034 50  0000 C CNN
 F 2 "Package_DIP:DIP-4_W7.62mm" H 2700 4600 50  0001 L CIN
 F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2900 4800 50  0001 L CNN
@@ -275,10 +275,10 @@ F 3 "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf" H 2900 4800 50  00
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D3
+L Device:LED D6
 U 1 1 61AA5608
 P 2000 4900
-F 0 "D3" H 1993 5117 50  0000 C CNN
+F 0 "D6" H 1993 5117 50  0000 C CNN
 F 1 "LED" H 1993 5026 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2000 4900 50  0001 C CNN
 F 3 "~" H 2000 4900 50  0001 C CNN
@@ -286,10 +286,10 @@ F 3 "~" H 2000 4900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R4
+L Device:R R10
 U 1 1 61AA560E
 P 2300 4100
-F 0 "R4" H 2370 4146 50  0000 L CNN
+F 0 "R10" H 2370 4146 50  0000 L CNN
 F 1 "R" H 2370 4055 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2230 4100 50  0001 C CNN
 F 3 "~" H 2300 4100 50  0001 C CNN
