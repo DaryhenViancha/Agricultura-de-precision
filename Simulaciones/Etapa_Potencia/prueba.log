@@ -1,0 +1,49 @@
+Circuit: * C:\Users\User\Desktop\Embebidos\prueba.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.0756837
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 0.0307185
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 0.00757399
+vernier = 1
+Gmin = 0.000965423
+Gmin = 0.000103662
+Gmin = 1.11306e-005
+Gmin = 1.19514e-006
+Gmin = 1.28327e-007
+Gmin = 1.3779e-008
+Gmin = 1.47951e-009
+Gmin = 1.58861e-010
+Gmin = 1.70576e-011
+Gmin = 1.83154e-012
+Gmin = 1.9666e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Jan 24 18:06:24 2022
+Total elapsed time: 0.938 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2934
+traniter = 2096
+tranpoints = 1049
+accept = 1049
+rejected = 0
+matrix size = 40
+fillins = 74
+solver = Normal
+Matrix Compiler1: 9.92 KB object code size  9.5/5.6/[3.9]
+Matrix Compiler2: 5.22 KB object code size  2.8/4.5/[2.2]
+
