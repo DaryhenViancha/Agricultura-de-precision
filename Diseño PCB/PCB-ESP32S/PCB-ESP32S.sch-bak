@@ -259,7 +259,7 @@ AR Path="/61A61E97/61BBC590" Ref="J?"  Part="1"
 AR Path="/61BBC590" Ref="J1"  Part="1" 
 F 0 "J1" H 7330 3192 50  0000 L CNN
 F 1 "Screw_Terminal_01x03" H 7330 3101 50  0000 L CNN
-F 2 "Connector_JST:JST_GH_BM03B-GHS-TBT_1x03-1MP_P1.25mm_Vertical" H 7250 3150 50  0001 C CNN
+F 2 "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical" H 7250 3150 50  0001 C CNN
 F 3 "~" H 7250 3150 50  0001 C CNN
 	1    7250 3150
 	1    0    0    -1  
