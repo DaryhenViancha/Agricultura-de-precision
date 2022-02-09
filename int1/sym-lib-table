@@ -1,8 +1,0 @@
-(sym_lib_table
-  (lib (name esp32)(type Legacy)(uri /home/johan/Escritorio/Embebidos/Librerias_new/Espressif.lib)(options "")(descr ""))
-  (lib (name sensores_temp)(type Legacy)(uri /home/johan/Escritorio/Embebidos/Librerias_new/sensors.lib)(options "")(descr ""))
-  (lib (name "sensores_2(bh)")(type Legacy)(uri /home/johan/Escritorio/Embebidos/Librerias_new/usini_sensors.lib)(options "")(descr ""))
-  (lib (name espn32s)(type Legacy)(uri /home/johan/Escritorio/Embebidos/LIB_ESP32-WROOM-32_M103QH3200PH3Q0_/ESP32-WROOM-32_M103QH3200PH3Q0_/KiCad/ESP32-WROOM-32_M103QH3200PH3Q0.lib)(options "")(descr ""))
-  (lib (name esp32sv2)(type Legacy)(uri /home/johan/Escritorio/Embebidos/ESP32-WROOM-32/ESP32-WROOM-32.lib)(options "")(descr ""))
-  (lib (name int1-rescue)(type Legacy)(uri ${KIPRJMOD}/int1-rescue.lib)(options "")(descr ""))
-)
